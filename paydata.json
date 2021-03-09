@@ -1,0 +1,4864 @@
+{
+  "success": true,
+  "payload": {
+    "currentMonthAmount": {
+      "periodStartedAt": 1614556800000,
+      "periodEndedAt": 1617235200000,
+      "createdAt": 1614556800000,
+      "amount": 2170,
+      "minimumGuaranteeAmount": 0
+    },
+    "completedMonthlyAmounts": [],
+    "postAmounts": [
+      {
+        "periodStartedAt": 1614556800000,
+        "periodEndedAt": 1617235200000,
+        "createdAt": 1614556800000,
+        "userId": "1eddac375cb9",
+        "post": {
+          "id": "c02f6516c932",
+          "versionId": "ac2f5ed96675",
+          "creatorId": "1eddac375cb9",
+          "homeCollectionId": "7f60cf5620c9",
+          "title": "Cloud Certs ^ 3 — Why Bother?",
+          "detectedLanguage": "en",
+          "latestVersion": "ac2f5ed96675",
+          "latestPublishedVersion": "ac2f5ed96675",
+          "hasUnpublishedEdits": false,
+          "latestRev": 77,
+          "createdAt": 1614389682572,
+          "updatedAt": 1614699665669,
+          "acceptedAt": 0,
+          "firstPublishedAt": 1614699664079,
+          "latestPublishedAt": 1614699664079,
+          "experimentalCss": "",
+          "displayAuthor": "",
+          "virtuals": {
+            "previewImage": {
+              "imageId": "0*VpqD8K8oYUAlfq4g",
+              "filter": "",
+              "backgroundSize": "",
+              "originalWidth": 6016,
+              "originalHeight": 4000,
+              "strategy": "resample",
+              "height": 0,
+              "width": 0
+            },
+            "wordCount": 985,
+            "imageCount": 2,
+            "readingTime": 4.100314465408805,
+            "subtitle": "Advice on Clouds Certs from a Data Expert",
+            "noIndex": false,
+            "tags": [],
+            "links": {
+              "entries": [
+                {
+                  "url": "https://unsplash.com?utm_source=medium&utm_medium=referral",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://tutorialsdojo.com/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.datamation.com/cloud/how-cloud-computing-changed-the-world/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://unsplash.com/@felipegregate?utm_source=medium&utm_medium=referral",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.udemy.com/course/az-102-azure-administrator-certification-transition/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.udemy.com/course/google-certified-associate-cloud-engineer-2019-prep-course/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "http://tutorialdojo.com",
+                  "alts": [],
+                  "httpStatus": 0
+                },
+                {
+                  "url": "https://www.udemy.com/course/aws-data-analytics/",
+                  "alts": [],
+                  "httpStatus": 200
+                }
+              ],
+              "version": "0.3",
+              "generatedAt": 1614699732696
+            },
+            "isLockedPreviewOnly": false,
+            "metaDescription": "",
+            "sectionCount": 3,
+            "topics": []
+          },
+          "coverless": true,
+          "slug": "cloud-certs-3-why-bother",
+          "translationSourcePostId": "",
+          "translationSourceCreatorId": "",
+          "isApprovedTranslation": false,
+          "inResponseToPostId": "",
+          "inResponseToRemovedAt": 0,
+          "isTitleSynthesized": false,
+          "allowResponses": true,
+          "importedUrl": "",
+          "importedPublishedAt": 0,
+          "visibility": 2,
+          "uniqueSlug": "cloud-certs-3-why-bother-c02f6516c932",
+          "previewContent": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "previewImage",
+                  "type": 4,
+                  "text": "",
+                  "layout": 10,
+                  "metadata": {
+                    "id": "0*VpqD8K8oYUAlfq4g",
+                    "originalWidth": 6016,
+                    "originalHeight": 4000,
+                    "isFeatured": true,
+                    "unsplashPhotoId": "3EH9dmDQU3U"
+                  }
+                },
+                {
+                  "name": "previewTitle",
+                  "type": 3,
+                  "text": "Cloud Certs ^ 3 — Why Bother?",
+                  "alignment": 1
+                },
+                {
+                  "name": "previewSubtitle",
+                  "type": 13,
+                  "text": "Advice on Clouds Certs from a Data Expert",
+                  "alignment": 1
+                }
+              ],
+              "sections": [
+                {
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Advice on Clouds Certs from a Data Expert"
+          },
+          "license": 7,
+          "inResponseToMediaResourceId": "",
+          "canonicalUrl": "",
+          "approvedHomeCollectionId": "",
+          "isNewsletter": false,
+          "newsletterId": "",
+          "webCanonicalUrl": "",
+          "mediumUrl": "",
+          "migrationId": "",
+          "notifyFollowers": true,
+          "notifyTwitter": false,
+          "notifyFacebook": false,
+          "responseHiddenOnParentPostAt": 0,
+          "isSeries": false,
+          "isSubscriptionLocked": true,
+          "seriesLastAppendedAt": 0,
+          "audioVersionDurationSec": 0,
+          "sequenceId": "",
+          "isEligibleForRevenue": true,
+          "isBlockedFromHightower": false,
+          "deletedAt": 0,
+          "lockedPostSource": 1,
+          "hightowerMinimumGuaranteeStartsAt": 0,
+          "hightowerMinimumGuaranteeEndsAt": 0,
+          "featureLockRequestAcceptedAt": 0,
+          "mongerRequestType": 1,
+          "layerCake": 3,
+          "socialTitle": "",
+          "socialDek": "",
+          "editorialPreviewTitle": "",
+          "editorialPreviewDek": "",
+          "curationEligibleAt": 1614659853172,
+          "isProxyPost": false,
+          "proxyPostFaviconUrl": "",
+          "proxyPostProviderName": "",
+          "proxyPostType": 0,
+          "isSuspended": false,
+          "isLimitedState": false,
+          "seoTitle": "",
+          "previewContent2": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "2e6f",
+                  "type": 13,
+                  "text": "Opinion",
+                  "markups": []
+                },
+                {
+                  "name": "27de",
+                  "type": 3,
+                  "text": "Cloud Certs ^ 3 — Why Bother?",
+                  "markups": []
+                },
+                {
+                  "name": "3b6a",
+                  "type": 13,
+                  "text": "Advice on Clouds Certs from an Expert Data Engineer",
+                  "markups": []
+                },
+                {
+                  "name": "28de",
+                  "type": 4,
+                  "text": "Photo by Felipe Gregate on Unsplash",
+                  "markups": [
+                    {
+                      "type": 3,
+                      "start": 9,
+                      "end": 23,
+                      "href": "https://unsplash.com/@felipegregate?utm_source=medium&utm_medium=referral",
+                      "title": "",
+                      "rel": "photo-creator noopener noopener",
+                      "anchorType": 0
+                    },
+                    {
+                      "type": 3,
+                      "start": 27,
+                      "end": 35,
+                      "href": "https://unsplash.com?utm_source=medium&utm_medium=referral",
+                      "title": "",
+                      "rel": "photo-source noopener noopener",
+                      "anchorType": 0
+                    }
+                  ],
+                  "layout": 1,
+                  "metadata": {
+                    "id": "0*VpqD8K8oYUAlfq4g",
+                    "originalWidth": 6016,
+                    "originalHeight": 4000,
+                    "isFeatured": true,
+                    "unsplashPhotoId": "3EH9dmDQU3U"
+                  }
+                },
+                {
+                  "name": "7b0e",
+                  "type": 1,
+                  "text": "Like many senior engineers / managers, I don’t feel I need certifications to prove myself nor pad my resume. I almost feel like it is below me at times to have to take an exam (don’t you?). But taking the exams and passing is a nice test to prove I’m…",
+                  "markups": [
+                    {
+                      "type": 1,
+                      "start": 384,
+                      "end": 418
+                    }
+                  ]
+                }
+              ],
+              "sections": [
+                {
+                  "name": "fe24",
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Advice on Clouds Certs from a Data Expert"
+          },
+          "cardType": 0,
+          "isDistributionAlertDismissed": false,
+          "isShortform": false,
+          "shortformType": 0,
+          "responsesLocked": false,
+          "isLockedResponse": false,
+          "isPublishToEmail": false,
+          "responseDistribution": 0,
+          "type": "Post"
+        },
+        "amount": 923,
+        "weeklyAmounts": [],
+        "totalAmountPaidToDate": 923,
+        "totalAmountInCents": 923
+      },
+      {
+        "periodStartedAt": 1614556800000,
+        "periodEndedAt": 1617235200000,
+        "createdAt": 1614556800000,
+        "userId": "1eddac375cb9",
+        "post": {
+          "id": "67c7f4c3039d",
+          "versionId": "90b1f639a9e2",
+          "creatorId": "1eddac375cb9",
+          "homeCollectionId": "7f60cf5620c9",
+          "title": "Ageism in Tech and Data Science",
+          "detectedLanguage": "en",
+          "latestVersion": "90b1f639a9e2",
+          "latestPublishedVersion": "90b1f639a9e2",
+          "hasUnpublishedEdits": false,
+          "latestRev": 110,
+          "createdAt": 1614960083176,
+          "updatedAt": 1614961124155,
+          "acceptedAt": 0,
+          "firstPublishedAt": 1614961116786,
+          "latestPublishedAt": 1614961116786,
+          "experimentalCss": "",
+          "displayAuthor": "",
+          "virtuals": {
+            "previewImage": {
+              "imageId": "1*_P8NzAGsmbQUfBIKDlYE4A.png",
+              "filter": "",
+              "backgroundSize": "",
+              "originalWidth": 1755,
+              "originalHeight": 913,
+              "strategy": "resample",
+              "height": 0,
+              "width": 0
+            },
+            "wordCount": 1389,
+            "imageCount": 9,
+            "readingTime": 6.441509433962264,
+            "subtitle": "What to know and how to fight ageism in technical roles",
+            "noIndex": false,
+            "tags": [],
+            "links": {
+              "entries": [
+                {
+                  "url": "https://unsplash.com/photos/upwjVq8cJRY",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.aarp.org/work/on-the-job/info-2017/age-discrimination-facts.html",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.researchgate.net/publication/264261522_Perceptions_of_Older_Versus_Younger_Workers_in_Terms_of_Big_Five_Facets_Proactive_Personality_Cognitive_Ability_and_Job_Performance",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://hbr.org/2019/08/5-ways-to-respond-to-ageism-in-a-job-interview",
+                  "alts": [
+                    {
+                      "type": 1,
+                      "url": "https://hbr.org/amp/2019/08/5-ways-to-respond-to-ageism-in-a-job-interview"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://hbr.org/2019/09/the-case-for-hiring-older-workers",
+                  "alts": [
+                    {
+                      "type": 1,
+                      "url": "https://hbr.org/amp/2019/09/the-case-for-hiring-older-workers"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/does-age-discrimination-in-tech-start-at-40",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.payscale.com/data-packages/top-tech-companies-compared/tech-salaries",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://wallpapersafari.com/page/copyright-policy/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://jchyip.medium.com/why-t-shaped-people-e8706198e437",
+                  "alts": [
+                    {
+                      "type": 3,
+                      "url": "medium://p/e8706198e437"
+                    },
+                    {
+                      "type": 2,
+                      "url": "medium://p/e8706198e437"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://diginomica.com/youth-experience-ageism-tech-industry",
+                  "alts": [
+                    {
+                      "type": 1,
+                      "url": "https://diginomica.com/youth-experience-ageism-tech-industry?amp"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.npr.org/2017/03/24/521266749/too-much-experience-to-be-hired-some-older-americans-face-age-bias",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.visier.com/clarity/four-common-tech-ageism-myths-debunked/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://thewisemangroup.com/books/multipliers/",
+                  "alts": [],
+                  "httpStatus": 200
+                }
+              ],
+              "version": "0.3",
+              "generatedAt": 1614961121325
+            },
+            "isLockedPreviewOnly": false,
+            "metaDescription": "",
+            "sectionCount": 8,
+            "topics": []
+          },
+          "coverless": true,
+          "slug": "ageism-in-tech-and-data-science",
+          "translationSourcePostId": "",
+          "translationSourceCreatorId": "",
+          "isApprovedTranslation": false,
+          "inResponseToPostId": "",
+          "inResponseToRemovedAt": 0,
+          "isTitleSynthesized": false,
+          "allowResponses": true,
+          "importedUrl": "",
+          "importedPublishedAt": 0,
+          "visibility": 2,
+          "uniqueSlug": "ageism-in-tech-and-data-science-67c7f4c3039d",
+          "previewContent": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "previewImage",
+                  "type": 4,
+                  "text": "",
+                  "layout": 10,
+                  "metadata": {
+                    "id": "1*_P8NzAGsmbQUfBIKDlYE4A.png",
+                    "originalWidth": 1755,
+                    "originalHeight": 913,
+                    "isFeatured": true
+                  }
+                },
+                {
+                  "name": "669f",
+                  "type": 3,
+                  "text": "Ageism in Tech and Data Science",
+                  "markups": [],
+                  "alignment": 1
+                },
+                {
+                  "name": "fdd1",
+                  "type": 13,
+                  "text": "What to know and how to fight ageism in technical roles",
+                  "markups": [],
+                  "alignment": 1
+                }
+              ],
+              "sections": [
+                {
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "What to know and how to fight ageism in technical roles"
+          },
+          "license": 0,
+          "inResponseToMediaResourceId": "",
+          "canonicalUrl": "",
+          "approvedHomeCollectionId": "",
+          "isNewsletter": false,
+          "newsletterId": "",
+          "webCanonicalUrl": "",
+          "mediumUrl": "",
+          "migrationId": "",
+          "notifyFollowers": true,
+          "notifyTwitter": false,
+          "notifyFacebook": false,
+          "responseHiddenOnParentPostAt": 0,
+          "isSeries": false,
+          "isSubscriptionLocked": true,
+          "seriesLastAppendedAt": 0,
+          "audioVersionDurationSec": 0,
+          "sequenceId": "",
+          "isEligibleForRevenue": true,
+          "isBlockedFromHightower": false,
+          "deletedAt": 0,
+          "lockedPostSource": 1,
+          "hightowerMinimumGuaranteeStartsAt": 0,
+          "hightowerMinimumGuaranteeEndsAt": 0,
+          "featureLockRequestAcceptedAt": 0,
+          "mongerRequestType": 1,
+          "layerCake": 3,
+          "socialTitle": "",
+          "socialDek": "",
+          "editorialPreviewTitle": "",
+          "editorialPreviewDek": "",
+          "curationEligibleAt": 1614960258192,
+          "isProxyPost": false,
+          "proxyPostFaviconUrl": "",
+          "proxyPostProviderName": "",
+          "proxyPostType": 0,
+          "isSuspended": false,
+          "isLimitedState": false,
+          "seoTitle": "",
+          "previewContent2": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "669f",
+                  "type": 3,
+                  "text": "Ageism in Tech and Data Science",
+                  "markups": []
+                },
+                {
+                  "name": "fdd1",
+                  "type": 13,
+                  "text": "What to know and how to fight ageism in technical roles",
+                  "markups": []
+                },
+                {
+                  "name": "dd63",
+                  "type": 4,
+                  "text": "Photo by Alessio Ferretti on Unsplash",
+                  "markups": [
+                    {
+                      "type": 3,
+                      "start": 0,
+                      "end": 37,
+                      "href": "https://unsplash.com/photos/upwjVq8cJRY",
+                      "title": "",
+                      "rel": "noopener",
+                      "anchorType": 0
+                    }
+                  ],
+                  "layout": 1,
+                  "metadata": {
+                    "id": "1*_P8NzAGsmbQUfBIKDlYE4A.png",
+                    "originalWidth": 1755,
+                    "originalHeight": 913,
+                    "isFeatured": true
+                  }
+                },
+                {
+                  "name": "064e",
+                  "type": 1,
+                  "text": "You often hear the horror stories which point to ageism:",
+                  "markups": []
+                },
+                {
+                  "name": "ab42",
+                  "type": 6,
+                  "text": "“They won’t hire me because I have no experience” (too young)",
+                  "markups": [
+                    {
+                      "type": 1,
+                      "start": 35,
+                      "end": 38
+                    }
+                  ]
+                },
+                {
+                  "name": "49da",
+                  "type": 6,
+                  "text": "“They won’t hire me because I have too much experience” (too old)",
+                  "markups": [
+                    {
+                      "type": 1,
+                      "start": 35,
+                      "end": 39
+                    }
+                  ]
+                },
+                {
+                  "name": "aac4",
+                  "type": 6,
+                  "text": "“They hired some younger cheaper person to replace me” (too expensive)",
+                  "markups": []
+                },
+                {
+                  "name": "0706",
+                  "type": 1,
+                  "text": "There is a lot of published…",
+                  "markups": []
+                }
+              ],
+              "sections": [
+                {
+                  "name": "c572",
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "What to know and how to fight ageism in technical roles"
+          },
+          "cardType": 0,
+          "isDistributionAlertDismissed": false,
+          "isShortform": false,
+          "shortformType": 0,
+          "responsesLocked": false,
+          "isLockedResponse": false,
+          "isPublishToEmail": false,
+          "responseDistribution": 0,
+          "type": "Post"
+        },
+        "amount": 707,
+        "weeklyAmounts": [],
+        "totalAmountPaidToDate": 707,
+        "totalAmountInCents": 707
+      },
+      {
+        "periodStartedAt": 1614556800000,
+        "periodEndedAt": 1617235200000,
+        "createdAt": 1614556800000,
+        "userId": "1eddac375cb9",
+        "post": {
+          "id": "dcec77e6a39b",
+          "versionId": "383bf9e1eae",
+          "creatorId": "1eddac375cb9",
+          "homeCollectionId": "7f60cf5620c9",
+          "title": "High Dimension Clustering w/ t-SNE & DBSCAN",
+          "detectedLanguage": "en",
+          "latestVersion": "383bf9e1eae",
+          "latestPublishedVersion": "383bf9e1eae",
+          "hasUnpublishedEdits": false,
+          "latestRev": 274,
+          "createdAt": 1587735130894,
+          "updatedAt": 1614566452499,
+          "acceptedAt": 0,
+          "firstPublishedAt": 1587749884709,
+          "latestPublishedAt": 1588014444821,
+          "experimentalCss": "",
+          "displayAuthor": "",
+          "virtuals": {
+            "previewImage": {
+              "imageId": "1*yYWfSw2VpTJa2YA1LIyulA.png",
+              "filter": "",
+              "backgroundSize": "",
+              "originalWidth": 1391,
+              "originalHeight": 671,
+              "strategy": "resample",
+              "height": 0,
+              "width": 0
+            },
+            "wordCount": 1431,
+            "imageCount": 15,
+            "readingTime": 6.9,
+            "subtitle": "Step through a real world Data Science case — challenges & insights",
+            "noIndex": false,
+            "tags": [],
+            "links": {
+              "entries": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Curse_of_dimensionality",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://distill.pub/2016/misread-tsne/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.youtube.com/watch?v=ayZQj4llUSU&t=1824s",
+                  "alts": [],
+                  "httpStatus": 429
+                },
+                {
+                  "url": "https://github.com/CSSEGISandData/COVID-19.git",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://medium.com/@dmitriy.kavyazin/principal-component-analysis-and-k-means-clustering-to-visualize-a-high-dimensional-dataset-577b2a7a5fe2",
+                  "alts": [
+                    {
+                      "type": 3,
+                      "url": "medium://p/577b2a7a5fe2"
+                    },
+                    {
+                      "type": 2,
+                      "url": "medium://p/577b2a7a5fe2"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/dougfoo/machineLearning/blob/master/covid/COVID-global-clustering.ipynb",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://towardsdatascience.com/pca-vs-tsne-el-cl%C3%A1sico-9948181a5f87",
+                  "alts": [
+                    {
+                      "type": 3,
+                      "url": "medium://p/9948181a5f87"
+                    },
+                    {
+                      "type": 2,
+                      "url": "medium://p/9948181a5f87"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://medium.com/analytics-vidhya/learning-pandas-via-covid-analysis-79228efb5413",
+                  "alts": [
+                    {
+                      "type": 2,
+                      "url": "medium://p/79228efb5413"
+                    },
+                    {
+                      "type": 3,
+                      "url": "medium://p/79228efb5413"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57?source=bookmarks---------1------------------",
+                  "alts": [
+                    {
+                      "type": 3,
+                      "url": "medium://p/6c7202990c57"
+                    },
+                    {
+                      "type": 2,
+                      "url": "medium://p/6c7202990c57"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://data.worldbank.org/indicator",
+                  "alts": [],
+                  "httpStatus": 200
+                }
+              ],
+              "version": "0.3",
+              "generatedAt": 1588014449079
+            },
+            "isLockedPreviewOnly": false,
+            "metaDescription": "",
+            "sectionCount": 4,
+            "topics": []
+          },
+          "coverless": true,
+          "slug": "high-dimension-clustering-w-t-sne-dbscan",
+          "translationSourcePostId": "",
+          "translationSourceCreatorId": "",
+          "isApprovedTranslation": false,
+          "inResponseToPostId": "",
+          "inResponseToRemovedAt": 0,
+          "isTitleSynthesized": false,
+          "allowResponses": true,
+          "importedUrl": "",
+          "importedPublishedAt": 0,
+          "visibility": 2,
+          "uniqueSlug": "high-dimension-clustering-w-t-sne-dbscan-dcec77e6a39b",
+          "previewContent": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "previewImage",
+                  "type": 4,
+                  "text": "",
+                  "layout": 10,
+                  "metadata": {
+                    "id": "1*yYWfSw2VpTJa2YA1LIyulA.png",
+                    "originalWidth": 1391,
+                    "originalHeight": 671,
+                    "isFeatured": true
+                  }
+                },
+                {
+                  "name": "f6d4",
+                  "type": 3,
+                  "text": "High Dimension Clustering w/ t-SNE & DBSCAN",
+                  "markups": [],
+                  "alignment": 1
+                },
+                {
+                  "name": "e756",
+                  "type": 13,
+                  "text": "Step thru a real world Data Science case — challenges &…",
+                  "markups": [],
+                  "alignment": 1
+                }
+              ],
+              "sections": [
+                {
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Step through a real world Data Science case — challenges & insights"
+          },
+          "license": 0,
+          "inResponseToMediaResourceId": "",
+          "canonicalUrl": "",
+          "approvedHomeCollectionId": "",
+          "isNewsletter": false,
+          "newsletterId": "",
+          "webCanonicalUrl": "",
+          "mediumUrl": "",
+          "migrationId": "",
+          "notifyFollowers": true,
+          "notifyTwitter": false,
+          "notifyFacebook": false,
+          "responseHiddenOnParentPostAt": 0,
+          "isSeries": false,
+          "isSubscriptionLocked": true,
+          "seriesLastAppendedAt": 0,
+          "audioVersionDurationSec": 0,
+          "sequenceId": "",
+          "isEligibleForRevenue": true,
+          "isBlockedFromHightower": false,
+          "deletedAt": 0,
+          "lockedPostSource": 1,
+          "hightowerMinimumGuaranteeStartsAt": 0,
+          "hightowerMinimumGuaranteeEndsAt": 0,
+          "featureLockRequestAcceptedAt": 0,
+          "mongerRequestType": 1,
+          "layerCake": 3,
+          "socialTitle": "",
+          "socialDek": "",
+          "editorialPreviewTitle": "",
+          "editorialPreviewDek": "",
+          "curationEligibleAt": 1587735266809,
+          "isProxyPost": false,
+          "proxyPostFaviconUrl": "",
+          "proxyPostProviderName": "",
+          "proxyPostType": 0,
+          "isSuspended": false,
+          "isLimitedState": false,
+          "seoTitle": "",
+          "previewContent2": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "f6d4",
+                  "type": 3,
+                  "text": "High Dimension Clustering w/ t-SNE & DBSCAN",
+                  "markups": []
+                },
+                {
+                  "name": "e756",
+                  "type": 13,
+                  "text": "Step thru a real world Data Science case — challenges & insights",
+                  "markups": []
+                },
+                {
+                  "name": "8be9",
+                  "type": 4,
+                  "text": "Global Cases — it has spread .. like a virus !",
+                  "markups": [],
+                  "layout": 3,
+                  "metadata": {
+                    "id": "1*yYWfSw2VpTJa2YA1LIyulA.png",
+                    "originalWidth": 1391,
+                    "originalHeight": 671,
+                    "isFeatured": true
+                  }
+                },
+                {
+                  "name": "8226",
+                  "type": 1,
+                  "text": "Clustering is a set of unsupervised machine learning methods used to group data together based on its features. Ie, using Country info (demographics, social indicators, economic indicators etc) + COVID data, can we determine if Japan is more like India or United States or Poland?",
+                  "markups": []
+                },
+                {
+                  "name": "bc68",
+                  "type": 1,
+                  "text": "We will evaluate using K-Means…",
+                  "markups": [
+                    {
+                      "type": 3,
+                      "start": 141,
+                      "end": 160,
+                      "href": "https://medium.com/analytics-vidhya/learning-pandas-via-covid-analysis-79228efb5413",
+                      "title": "",
+                      "rel": "",
+                      "anchorType": 0
+                    },
+                    {
+                      "type": 1,
+                      "start": 141,
+                      "end": 159
+                    },
+                    {
+                      "type": 2,
+                      "start": 114,
+                      "end": 185
+                    }
+                  ]
+                }
+              ],
+              "sections": [
+                {
+                  "name": "32d9",
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Step through a real world Data Science case — challenges & insights"
+          },
+          "cardType": 0,
+          "isDistributionAlertDismissed": false,
+          "isShortform": false,
+          "shortformType": 0,
+          "responsesLocked": false,
+          "isLockedResponse": false,
+          "isPublishToEmail": false,
+          "responseDistribution": 0,
+          "type": "Post"
+        },
+        "amount": 151,
+        "weeklyAmounts": [],
+        "totalAmountPaidToDate": 151,
+        "totalAmountInCents": 151
+      },
+      {
+        "periodStartedAt": 1614556800000,
+        "periodEndedAt": 1617235200000,
+        "createdAt": 1614556800000,
+        "userId": "1eddac375cb9",
+        "post": {
+          "id": "2d6759914319",
+          "versionId": "ba5a2a28dd9e",
+          "creatorId": "1eddac375cb9",
+          "homeCollectionId": "7f60cf5620c9",
+          "title": "Columnar Stores — When/How/Why?",
+          "detectedLanguage": "en",
+          "latestVersion": "ba5a2a28dd9e",
+          "latestPublishedVersion": "ba5a2a28dd9e",
+          "hasUnpublishedEdits": false,
+          "latestRev": 2744,
+          "createdAt": 1592286450841,
+          "updatedAt": 1614566452495,
+          "acceptedAt": 0,
+          "firstPublishedAt": 1597199161806,
+          "latestPublishedAt": 1597199161806,
+          "experimentalCss": "",
+          "displayAuthor": "",
+          "virtuals": {
+            "previewImage": {
+              "imageId": "0*Dr4Mo2OLLctBUUhU",
+              "filter": "",
+              "backgroundSize": "",
+              "originalWidth": 5396,
+              "originalHeight": 3597,
+              "strategy": "resample",
+              "height": 0,
+              "width": 0
+            },
+            "wordCount": 1594,
+            "imageCount": 11,
+            "readingTime": 7.315094339622641,
+            "subtitle": "Demystifying Row vs Column Big Data stores (Parquet, Postgres, Avro, etc)",
+            "noIndex": false,
+            "tags": [],
+            "links": {
+              "entries": [
+                {
+                  "url": "https://unsplash.com?utm_source=medium&utm_medium=referral",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.perfectlyrandom.org/2019/11/29/handling-avro-files-in-python/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://blog.yugabyte.com/a-busy-developers-guide-to-database-storage-engines-the-basics/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/citusdata/cstore_fdw",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://unsplash.com/@skylergeraldphoto?utm_source=medium&utm_medium=referral",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/dougfoo/fileformats",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/citusdata/cstore_fdw/issues/75",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://medium.com/swlh/insights-into-parquet-storage-ac7e46b94ffe",
+                  "alts": [
+                    {
+                      "type": 3,
+                      "url": "medium://p/ac7e46b94ffe"
+                    },
+                    {
+                      "type": 2,
+                      "url": "medium://p/ac7e46b94ffe"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.slideshare.net/ConfluentInc/power-of-the-loglsm-append-only-data-structures",
+                  "alts": [
+                    {
+                      "type": 3,
+                      "url": "slideshare-app://ss/72966406"
+                    },
+                    {
+                      "type": 2,
+                      "url": "slideshare-app://ss/72966406"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://queue.acm.org/detail.cfm?id=1531242",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://data.cityofchicago.org/Administration-Finance/Current-Employee-Names-Salaries-and-Position-Title/aned-ke5c",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.confluent.io/ebook/i-heart-logs-event-data-stream-processing-and-data-integration/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.citusdata.com/blog/2014/06/14/columnar-store-benchmarks-ssds/",
+                  "alts": [],
+                  "httpStatus": 200
+                }
+              ],
+              "version": "0.3",
+              "generatedAt": 1597199163910
+            },
+            "isLockedPreviewOnly": false,
+            "metaDescription": "",
+            "sectionCount": 5,
+            "topics": []
+          },
+          "coverless": true,
+          "slug": "columnar-stores-when-how-why",
+          "translationSourcePostId": "",
+          "translationSourceCreatorId": "",
+          "isApprovedTranslation": false,
+          "inResponseToPostId": "",
+          "inResponseToRemovedAt": 0,
+          "isTitleSynthesized": false,
+          "allowResponses": true,
+          "importedUrl": "",
+          "importedPublishedAt": 0,
+          "visibility": 2,
+          "uniqueSlug": "columnar-stores-when-how-why-2d6759914319",
+          "previewContent": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "previewImage",
+                  "type": 4,
+                  "text": "",
+                  "layout": 10,
+                  "metadata": {
+                    "id": "0*Dr4Mo2OLLctBUUhU",
+                    "originalWidth": 5396,
+                    "originalHeight": 3597,
+                    "isFeatured": true,
+                    "unsplashPhotoId": "HfHoD_jEvu0"
+                  }
+                },
+                {
+                  "name": "6d44",
+                  "type": 3,
+                  "text": "Columnar Stores — When/How/Why?",
+                  "markups": [],
+                  "alignment": 1
+                },
+                {
+                  "name": "d5c4",
+                  "type": 13,
+                  "text": "Demystifying Row vs Column Big Data stores (Parquet, Postgres, Avro…",
+                  "markups": [],
+                  "alignment": 1
+                }
+              ],
+              "sections": [
+                {
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Demystifying Row vs Column Big Data stores (Parquet, Postgres, Avro, etc)"
+          },
+          "license": 0,
+          "inResponseToMediaResourceId": "",
+          "canonicalUrl": "",
+          "approvedHomeCollectionId": "",
+          "isNewsletter": false,
+          "newsletterId": "",
+          "webCanonicalUrl": "",
+          "mediumUrl": "",
+          "migrationId": "",
+          "notifyFollowers": true,
+          "notifyTwitter": false,
+          "notifyFacebook": false,
+          "responseHiddenOnParentPostAt": 0,
+          "isSeries": false,
+          "isSubscriptionLocked": true,
+          "seriesLastAppendedAt": 0,
+          "audioVersionDurationSec": 0,
+          "sequenceId": "",
+          "isEligibleForRevenue": true,
+          "isBlockedFromHightower": false,
+          "deletedAt": 0,
+          "lockedPostSource": 1,
+          "hightowerMinimumGuaranteeStartsAt": 0,
+          "hightowerMinimumGuaranteeEndsAt": 0,
+          "featureLockRequestAcceptedAt": 0,
+          "mongerRequestType": 1,
+          "layerCake": 3,
+          "socialTitle": "",
+          "socialDek": "",
+          "editorialPreviewTitle": "",
+          "editorialPreviewDek": "",
+          "curationEligibleAt": 1597190368107,
+          "isProxyPost": false,
+          "proxyPostFaviconUrl": "",
+          "proxyPostProviderName": "",
+          "proxyPostType": 0,
+          "isSuspended": false,
+          "isLimitedState": false,
+          "seoTitle": "",
+          "previewContent2": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "6d44",
+                  "type": 3,
+                  "text": "Columnar Stores — When/How/Why?",
+                  "markups": []
+                },
+                {
+                  "name": "d5c4",
+                  "type": 13,
+                  "text": "Demystifying Row vs Column Big Data stores (Parquet, Postgres, Avro, etc)",
+                  "markups": []
+                },
+                {
+                  "name": "64b5",
+                  "type": 4,
+                  "text": "Photo by Skyler Gerald on Unsplash",
+                  "markups": [
+                    {
+                      "type": 3,
+                      "start": 9,
+                      "end": 22,
+                      "href": "https://unsplash.com/@skylergeraldphoto?utm_source=medium&utm_medium=referral",
+                      "title": "",
+                      "rel": "photo-creator",
+                      "anchorType": 0
+                    },
+                    {
+                      "type": 3,
+                      "start": 26,
+                      "end": 34,
+                      "href": "https://unsplash.com?utm_source=medium&utm_medium=referral",
+                      "title": "",
+                      "rel": "photo-source",
+                      "anchorType": 0
+                    }
+                  ],
+                  "layout": 1,
+                  "metadata": {
+                    "id": "0*Dr4Mo2OLLctBUUhU",
+                    "originalWidth": 5396,
+                    "originalHeight": 3597,
+                    "isFeatured": true,
+                    "unsplashPhotoId": "HfHoD_jEvu0"
+                  }
+                },
+                {
+                  "name": "f8b9",
+                  "type": 1,
+                  "text": "Long ago data storage was simple — heapfiles and b-trees and that's it. Today the options are overwhelming — ORC, Parquet, Avro on HDFS or S3 or a RDBMS solution like Postgresql, MariaDB, or commercial ones like Oracle and DB2. Even within RDBMS engines and Cloud services there are many…",
+                  "markups": []
+                }
+              ],
+              "sections": [
+                {
+                  "name": "77c7",
+                  "startIndex": 0,
+                  "textLayout": 1,
+                  "imageLayout": 1,
+                  "backgroundColor": 1,
+                  "type": 0,
+                  "videoLayout": 1
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Demystifying Row vs Column Big Data stores (Parquet, Postgres, Avro, etc)"
+          },
+          "cardType": 0,
+          "isDistributionAlertDismissed": false,
+          "isShortform": false,
+          "shortformType": 0,
+          "responsesLocked": false,
+          "isLockedResponse": false,
+          "isPublishToEmail": false,
+          "responseDistribution": 0,
+          "type": "Post"
+        },
+        "amount": 118,
+        "weeklyAmounts": [],
+        "totalAmountPaidToDate": 118,
+        "totalAmountInCents": 118
+      },
+      {
+        "periodStartedAt": 1614556800000,
+        "periodEndedAt": 1617235200000,
+        "createdAt": 1614556800000,
+        "userId": "1eddac375cb9",
+        "post": {
+          "id": "517fa61d7087",
+          "versionId": "c75f489a439b",
+          "creatorId": "1eddac375cb9",
+          "homeCollectionId": "61061eb0c96b",
+          "title": "Beating Ageism in Tech",
+          "detectedLanguage": "en",
+          "latestVersion": "c75f489a439b",
+          "latestPublishedVersion": "c75f489a439b",
+          "hasUnpublishedEdits": false,
+          "latestRev": 3562,
+          "createdAt": 1614569888656,
+          "updatedAt": 1614971287172,
+          "acceptedAt": 0,
+          "firstPublishedAt": 1614962076376,
+          "latestPublishedAt": 1614962076376,
+          "experimentalCss": "",
+          "displayAuthor": "",
+          "virtuals": {
+            "previewImage": {
+              "imageId": "1*_P8NzAGsmbQUfBIKDlYE4A.png",
+              "filter": "",
+              "backgroundSize": "",
+              "originalWidth": 1755,
+              "originalHeight": 913,
+              "strategy": "resample",
+              "height": 0,
+              "width": 0
+            },
+            "wordCount": 1401,
+            "imageCount": 9,
+            "readingTime": 6.486792452830189,
+            "subtitle": "There is some truth to age discrimination in tech — learn how to navigate and even make it work to your advantage.",
+            "noIndex": false,
+            "tags": [],
+            "links": {
+              "entries": [
+                {
+                  "url": "https://unsplash.com/photos/upwjVq8cJRY",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://hbr.org/2019/08/5-ways-to-respond-to-ageism-in-a-job-interview",
+                  "alts": [
+                    {
+                      "type": 1,
+                      "url": "https://hbr.org/amp/2019/08/5-ways-to-respond-to-ageism-in-a-job-interview"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://hbr.org/2019/09/the-case-for-hiring-older-workers",
+                  "alts": [
+                    {
+                      "type": 1,
+                      "url": "https://hbr.org/amp/2019/09/the-case-for-hiring-older-workers"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.npr.org/2017/03/24/521266749/too-much-experience-to-be-hired-some-older-americans-face-age-bias",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.researchgate.net/publication/264261522_Perceptions_of_Older_Versus_Younger_Workers_in_Terms_of_Big_Five_Facets_Proactive_Personality_Cognitive_Ability_and_Job_Performance",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://diginomica.com/youth-experience-ageism-tech-industry",
+                  "alts": [
+                    {
+                      "type": 1,
+                      "url": "https://diginomica.com/youth-experience-ageism-tech-industry?amp"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.aarp.org/work/on-the-job/info-2017/age-discrimination-facts.html",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/does-age-discrimination-in-tech-start-at-40",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://wallpapersafari.com/page/copyright-policy/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.payscale.com/data-packages/top-tech-companies-compared/tech-salaries",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.visier.com/clarity/four-common-tech-ageism-myths-debunked/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://jchyip.medium.com/why-t-shaped-people-e8706198e437",
+                  "alts": [
+                    {
+                      "type": 3,
+                      "url": "medium://p/e8706198e437"
+                    },
+                    {
+                      "type": 2,
+                      "url": "medium://p/e8706198e437"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://thewisemangroup.com/books/multipliers/",
+                  "alts": [],
+                  "httpStatus": 200
+                }
+              ],
+              "version": "0.3",
+              "generatedAt": 1614962081020
+            },
+            "isLockedPreviewOnly": false,
+            "metaDescription": "",
+            "sectionCount": 8,
+            "topics": []
+          },
+          "coverless": true,
+          "slug": "beating-ageism-in-tech",
+          "translationSourcePostId": "",
+          "translationSourceCreatorId": "",
+          "isApprovedTranslation": false,
+          "inResponseToPostId": "",
+          "inResponseToRemovedAt": 0,
+          "isTitleSynthesized": false,
+          "allowResponses": true,
+          "importedUrl": "",
+          "importedPublishedAt": 0,
+          "visibility": 2,
+          "uniqueSlug": "beating-ageism-in-tech-517fa61d7087",
+          "previewContent": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "previewImage",
+                  "type": 4,
+                  "text": "",
+                  "layout": 10,
+                  "metadata": {
+                    "id": "1*_P8NzAGsmbQUfBIKDlYE4A.png",
+                    "originalWidth": 1755,
+                    "originalHeight": 913,
+                    "isFeatured": true
+                  }
+                },
+                {
+                  "name": "5cd0",
+                  "type": 3,
+                  "text": "Beating Ageism in Tech",
+                  "markups": [],
+                  "alignment": 1
+                },
+                {
+                  "name": "fdd1",
+                  "type": 13,
+                  "text": "There is some truth to age discrimination in tech — learn how to navigate and…",
+                  "markups": [],
+                  "alignment": 1
+                }
+              ],
+              "sections": [
+                {
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "There is some truth to age discrimination in tech — learn how to navigate and even make it work to your advantage."
+          },
+          "license": 0,
+          "inResponseToMediaResourceId": "",
+          "canonicalUrl": "",
+          "approvedHomeCollectionId": "",
+          "isNewsletter": false,
+          "newsletterId": "",
+          "webCanonicalUrl": "",
+          "mediumUrl": "",
+          "migrationId": "",
+          "notifyFollowers": true,
+          "notifyTwitter": false,
+          "notifyFacebook": false,
+          "responseHiddenOnParentPostAt": 0,
+          "isSeries": false,
+          "isSubscriptionLocked": true,
+          "seriesLastAppendedAt": 0,
+          "audioVersionDurationSec": 0,
+          "sequenceId": "",
+          "isEligibleForRevenue": true,
+          "isBlockedFromHightower": false,
+          "deletedAt": 0,
+          "lockedPostSource": 1,
+          "hightowerMinimumGuaranteeStartsAt": 0,
+          "hightowerMinimumGuaranteeEndsAt": 0,
+          "featureLockRequestAcceptedAt": 0,
+          "mongerRequestType": 1,
+          "layerCake": 3,
+          "socialTitle": "",
+          "socialDek": "",
+          "editorialPreviewTitle": "",
+          "editorialPreviewDek": "",
+          "curationEligibleAt": 1614942842558,
+          "isProxyPost": false,
+          "proxyPostFaviconUrl": "",
+          "proxyPostProviderName": "",
+          "proxyPostType": 0,
+          "isSuspended": false,
+          "isLimitedState": false,
+          "seoTitle": "",
+          "previewContent2": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "5cd0",
+                  "type": 3,
+                  "text": "Beating Ageism in Tech",
+                  "markups": []
+                },
+                {
+                  "name": "fdd1",
+                  "type": 13,
+                  "text": "There is some truth to age discrimination in tech — learn how to navigate and even make it work to your advantage.",
+                  "markups": []
+                },
+                {
+                  "name": "dd63",
+                  "type": 4,
+                  "text": "Photo by Alessio Ferretti on Unsplash",
+                  "markups": [
+                    {
+                      "type": 3,
+                      "start": 0,
+                      "end": 37,
+                      "href": "https://unsplash.com/photos/upwjVq8cJRY",
+                      "title": "",
+                      "rel": "",
+                      "anchorType": 0
+                    }
+                  ],
+                  "layout": 1,
+                  "metadata": {
+                    "id": "1*_P8NzAGsmbQUfBIKDlYE4A.png",
+                    "originalWidth": 1755,
+                    "originalHeight": 913,
+                    "isFeatured": true
+                  }
+                },
+                {
+                  "name": "064e",
+                  "type": 1,
+                  "text": "You often hear the horror stories pointing to ageism:",
+                  "markups": []
+                },
+                {
+                  "name": "ab42",
+                  "type": 6,
+                  "text": "“They won’t hire me because I have no experience” (too young)",
+                  "markups": [
+                    {
+                      "type": 1,
+                      "start": 35,
+                      "end": 38
+                    }
+                  ]
+                },
+                {
+                  "name": "49da",
+                  "type": 6,
+                  "text": "“They won’t hire me because I have too much experience” (too old)",
+                  "markups": [
+                    {
+                      "type": 1,
+                      "start": 35,
+                      "end": 39
+                    }
+                  ]
+                },
+                {
+                  "name": "aac4",
+                  "type": 6,
+                  "text": "“They hired some younger cheaper person to replace me” (too expensive)",
+                  "markups": []
+                },
+                {
+                  "name": "0706",
+                  "type": 1,
+                  "text": "There is a lot of published research…",
+                  "markups": []
+                }
+              ],
+              "sections": [
+                {
+                  "name": "50ab",
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "There is some truth to age discrimination in tech — learn how to navigate and even make it work to your advantage."
+          },
+          "cardType": 0,
+          "isDistributionAlertDismissed": false,
+          "isShortform": false,
+          "shortformType": 0,
+          "responsesLocked": false,
+          "isLockedResponse": false,
+          "isPublishToEmail": false,
+          "responseDistribution": 0,
+          "type": "Post"
+        },
+        "amount": 111,
+        "weeklyAmounts": [],
+        "totalAmountPaidToDate": 111,
+        "totalAmountInCents": 111
+      },
+      {
+        "periodStartedAt": 1614556800000,
+        "periodEndedAt": 1617235200000,
+        "createdAt": 1614556800000,
+        "userId": "1eddac375cb9",
+        "post": {
+          "id": "51b7f4fec810",
+          "versionId": "685b5ce4fbd0",
+          "creatorId": "1eddac375cb9",
+          "homeCollectionId": "7f60cf5620c9",
+          "title": "Guide to Big Data Joins — Python, SQL, Pandas, Spark, Dask",
+          "detectedLanguage": "en",
+          "latestVersion": "685b5ce4fbd0",
+          "latestPublishedVersion": "685b5ce4fbd0",
+          "hasUnpublishedEdits": false,
+          "latestRev": 2689,
+          "createdAt": 1582531302993,
+          "updatedAt": 1614566452499,
+          "acceptedAt": 0,
+          "firstPublishedAt": 1583872603779,
+          "latestPublishedAt": 1583970485844,
+          "experimentalCss": "",
+          "displayAuthor": "",
+          "virtuals": {
+            "previewImage": {
+              "imageId": "0*QCpjyqP5qJjwgt3S",
+              "filter": "",
+              "backgroundSize": "",
+              "originalWidth": 5184,
+              "originalHeight": 3456,
+              "strategy": "resample",
+              "height": 0,
+              "width": 0
+            },
+            "wordCount": 1120,
+            "imageCount": 9,
+            "readingTime": 5.426415094339623,
+            "subtitle": "How to optimally join big datasets — A guide to the many ways",
+            "noIndex": false,
+            "tags": [],
+            "links": {
+              "entries": [
+                {
+                  "url": "https://unsplash.com?utm_source=medium&utm_medium=referral",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://bryancutler.github.io/createDataFrame/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://docs.python.org/2/library/sqlite3.html",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://pandas.pydata.org/docs/getting_started/10min.html",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://wesmckinney.com/blog/high-performance-database-joins-with-pandas-dataframe-more-benchmarks/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/dougfoo/machineLearning/tree/master/notebooks/movies",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.kaggle.com/rounakbanik/the-movies-dataset#ratings.csv",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://databricks.com/session/optimizing-apache-spark-sql-joins",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://unsplash.com/@heapdump?utm_source=medium&utm_medium=referral",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://towardsdatascience.com/installing-apache-pyspark-on-windows-10-f5f0c506bea1",
+                  "alts": [
+                    {
+                      "type": 3,
+                      "url": "medium://p/f5f0c506bea1"
+                    },
+                    {
+                      "type": 2,
+                      "url": "medium://p/f5f0c506bea1"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://towardsdatascience.com/the-art-of-joining-in-spark-dcbd33d693c",
+                  "alts": [
+                    {
+                      "type": 3,
+                      "url": "medium://p/dcbd33d693c"
+                    },
+                    {
+                      "type": 2,
+                      "url": "medium://p/dcbd33d693c"
+                    }
+                  ],
+                  "httpStatus": 200
+                }
+              ],
+              "version": "0.3",
+              "generatedAt": 1583977292169
+            },
+            "isLockedPreviewOnly": false,
+            "metaDescription": "",
+            "sectionCount": 2,
+            "topics": []
+          },
+          "coverless": true,
+          "slug": "guide-to-big-data-joins-python-sql-pandas-spark-dask",
+          "translationSourcePostId": "",
+          "translationSourceCreatorId": "",
+          "isApprovedTranslation": false,
+          "inResponseToPostId": "",
+          "inResponseToRemovedAt": 0,
+          "isTitleSynthesized": false,
+          "allowResponses": true,
+          "importedUrl": "",
+          "importedPublishedAt": 0,
+          "visibility": 2,
+          "uniqueSlug": "guide-to-big-data-joins-python-sql-pandas-spark-dask-51b7f4fec810",
+          "previewContent": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "previewImage",
+                  "type": 4,
+                  "text": "",
+                  "layout": 10,
+                  "metadata": {
+                    "id": "0*QCpjyqP5qJjwgt3S",
+                    "originalWidth": 5184,
+                    "originalHeight": 3456,
+                    "isFeatured": true,
+                    "unsplashPhotoId": "1iVKwElWrPA"
+                  }
+                },
+                {
+                  "name": "9680",
+                  "type": 3,
+                  "text": "Guide to Big Data Joins — Python, SQL, Pandas, Spark, Dask",
+                  "markups": [],
+                  "alignment": 1
+                },
+                {
+                  "name": "a43d",
+                  "type": 13,
+                  "text": "How to optimally join big datasets — A…",
+                  "markups": [],
+                  "alignment": 1
+                }
+              ],
+              "sections": [
+                {
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "How to optimally join big datasets — A guide to the many ways"
+          },
+          "license": 0,
+          "inResponseToMediaResourceId": "",
+          "canonicalUrl": "",
+          "approvedHomeCollectionId": "",
+          "isNewsletter": false,
+          "newsletterId": "",
+          "webCanonicalUrl": "",
+          "mediumUrl": "",
+          "migrationId": "",
+          "notifyFollowers": true,
+          "notifyTwitter": false,
+          "notifyFacebook": false,
+          "responseHiddenOnParentPostAt": 0,
+          "isSeries": false,
+          "isSubscriptionLocked": true,
+          "seriesLastAppendedAt": 0,
+          "audioVersionDurationSec": 0,
+          "sequenceId": "",
+          "isEligibleForRevenue": true,
+          "isBlockedFromHightower": false,
+          "deletedAt": 0,
+          "lockedPostSource": 1,
+          "hightowerMinimumGuaranteeStartsAt": 0,
+          "hightowerMinimumGuaranteeEndsAt": 0,
+          "featureLockRequestAcceptedAt": 0,
+          "mongerRequestType": 1,
+          "layerCake": 3,
+          "socialTitle": "",
+          "socialDek": "",
+          "editorialPreviewTitle": "",
+          "editorialPreviewDek": "",
+          "curationEligibleAt": 1583792176835,
+          "isProxyPost": false,
+          "proxyPostFaviconUrl": "",
+          "proxyPostProviderName": "",
+          "proxyPostType": 0,
+          "isSuspended": false,
+          "isLimitedState": false,
+          "seoTitle": "",
+          "previewContent2": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "9680",
+                  "type": 3,
+                  "text": "Guide to Big Data Joins — Python, SQL, Pandas, Spark, Dask",
+                  "markups": []
+                },
+                {
+                  "name": "a43d",
+                  "type": 13,
+                  "text": "How to optimally join big datasets — A guide to the many ways",
+                  "markups": []
+                },
+                {
+                  "name": "3fb1",
+                  "type": 4,
+                  "text": "The Big Data — Photo by Patrick Lindenberg on Unsplash",
+                  "markups": [
+                    {
+                      "type": 3,
+                      "start": 24,
+                      "end": 42,
+                      "href": "https://unsplash.com/@heapdump?utm_source=medium&utm_medium=referral",
+                      "title": "",
+                      "rel": "photo-creator",
+                      "anchorType": 0
+                    },
+                    {
+                      "type": 3,
+                      "start": 46,
+                      "end": 54,
+                      "href": "https://unsplash.com?utm_source=medium&utm_medium=referral",
+                      "title": "",
+                      "rel": "photo-source",
+                      "anchorType": 0
+                    }
+                  ],
+                  "layout": 3,
+                  "metadata": {
+                    "id": "0*QCpjyqP5qJjwgt3S",
+                    "originalWidth": 5184,
+                    "originalHeight": 3456,
+                    "isFeatured": true,
+                    "unsplashPhotoId": "1iVKwElWrPA"
+                  }
+                },
+                {
+                  "name": "4c46",
+                  "type": 1,
+                  "text": "There are many ways to spin a disk, filet a fish, or work with Big Data — here is a quick guide.",
+                  "markups": []
+                },
+                {
+                  "name": "772e",
+                  "type": 13,
+                  "text": "Sample Data Set",
+                  "markups": [
+                    {
+                      "type": 1,
+                      "start": 0,
+                      "end": 15
+                    }
+                  ]
+                },
+                {
+                  "name": "28dc",
+                  "type": 1,
+                  "text": "Kaggle Movies Database [8] — 26 million ratings for 45,000 movies, data split across 5 files:",
+                  "markups": []
+                }
+              ],
+              "sections": [
+                {
+                  "name": "b272",
+                  "startIndex": 0,
+                  "textLayout": 1,
+                  "imageLayout": 1,
+                  "backgroundColor": 1,
+                  "type": 0,
+                  "videoLayout": 1
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "How to optimally join big datasets — A guide to the many ways"
+          },
+          "cardType": 0,
+          "isDistributionAlertDismissed": false,
+          "isShortform": false,
+          "shortformType": 0,
+          "responsesLocked": false,
+          "isLockedResponse": false,
+          "isPublishToEmail": false,
+          "responseDistribution": 0,
+          "type": "Post"
+        },
+        "amount": 89,
+        "weeklyAmounts": [],
+        "totalAmountPaidToDate": 89,
+        "totalAmountInCents": 89
+      },
+      {
+        "periodStartedAt": 1614556800000,
+        "periodEndedAt": 1617235200000,
+        "createdAt": 1614556800000,
+        "userId": "1eddac375cb9",
+        "post": {
+          "id": "6075f7afdd15",
+          "versionId": "26271a2b2c4c",
+          "creatorId": "1eddac375cb9",
+          "homeCollectionId": "",
+          "title": "Cloud Certs ^ 3 — Why Bother?",
+          "detectedLanguage": "en",
+          "latestVersion": "26271a2b2c4c",
+          "latestPublishedVersion": "26271a2b2c4c",
+          "hasUnpublishedEdits": false,
+          "latestRev": 63,
+          "createdAt": 1614441942286,
+          "updatedAt": 1615011569764,
+          "acceptedAt": 0,
+          "firstPublishedAt": 1614702800899,
+          "latestPublishedAt": 1614702800899,
+          "experimentalCss": "",
+          "displayAuthor": "",
+          "virtuals": {
+            "previewImage": {
+              "imageId": "0*VpqD8K8oYUAlfq4g",
+              "filter": "",
+              "backgroundSize": "",
+              "originalWidth": 6016,
+              "originalHeight": 4000,
+              "strategy": "resample",
+              "height": 0,
+              "width": 0
+            },
+            "wordCount": 988,
+            "imageCount": 2,
+            "readingTime": 4.111635220125787,
+            "subtitle": "Are Cloud Certs needed?   Expert advice from a Data Engineer",
+            "noIndex": false,
+            "tags": [],
+            "links": {
+              "entries": [
+                {
+                  "url": "https://www.datamation.com/cloud/how-cloud-computing-changed-the-world/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://unsplash.com/@felipegregate?utm_source=medium&utm_medium=referral",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://tutorialsdojo.com/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.udemy.com/course/google-certified-associate-cloud-engineer-2019-prep-course/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.udemy.com/course/aws-data-analytics/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://unsplash.com?utm_source=medium&utm_medium=referral",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.udemy.com/course/az-102-azure-administrator-certification-transition/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "http://tutorialdojo.com",
+                  "alts": [],
+                  "httpStatus": 0
+                }
+              ],
+              "version": "0.3",
+              "generatedAt": 1614702802200
+            },
+            "isLockedPreviewOnly": false,
+            "metaDescription": "",
+            "sectionCount": 3,
+            "topics": []
+          },
+          "coverless": true,
+          "slug": "cloud-certs-3-why-bother",
+          "translationSourcePostId": "",
+          "translationSourceCreatorId": "",
+          "isApprovedTranslation": false,
+          "inResponseToPostId": "",
+          "inResponseToRemovedAt": 0,
+          "isTitleSynthesized": false,
+          "allowResponses": true,
+          "importedUrl": "",
+          "importedPublishedAt": 0,
+          "visibility": 1,
+          "uniqueSlug": "cloud-certs-3-why-bother-6075f7afdd15",
+          "previewContent": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "previewImage",
+                  "type": 4,
+                  "text": "",
+                  "layout": 10,
+                  "metadata": {
+                    "id": "0*VpqD8K8oYUAlfq4g",
+                    "originalWidth": 6016,
+                    "originalHeight": 4000,
+                    "isFeatured": true,
+                    "unsplashPhotoId": "3EH9dmDQU3U"
+                  }
+                },
+                {
+                  "name": "00b6",
+                  "type": 3,
+                  "text": "Cloud Certs ^ 3 — Why Bother?",
+                  "markups": [],
+                  "alignment": 1
+                },
+                {
+                  "name": "3b6a",
+                  "type": 13,
+                  "text": "Are Cloud Certs needed ? Expert advice from a Data Engineer",
+                  "markups": [],
+                  "alignment": 1
+                }
+              ],
+              "sections": [
+                {
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Are Cloud Certs needed?   Expert advice from a Data Engineer"
+          },
+          "license": 0,
+          "inResponseToMediaResourceId": "",
+          "canonicalUrl": "",
+          "approvedHomeCollectionId": "",
+          "isNewsletter": false,
+          "newsletterId": "",
+          "webCanonicalUrl": "",
+          "mediumUrl": "",
+          "migrationId": "",
+          "notifyFollowers": true,
+          "notifyTwitter": false,
+          "notifyFacebook": false,
+          "responseHiddenOnParentPostAt": 0,
+          "isSeries": false,
+          "isSubscriptionLocked": false,
+          "seriesLastAppendedAt": 0,
+          "audioVersionDurationSec": 0,
+          "sequenceId": "",
+          "isEligibleForRevenue": false,
+          "isBlockedFromHightower": false,
+          "deletedAt": 0,
+          "lockedPostSource": 0,
+          "hightowerMinimumGuaranteeStartsAt": 0,
+          "hightowerMinimumGuaranteeEndsAt": 0,
+          "featureLockRequestAcceptedAt": 0,
+          "mongerRequestType": 1,
+          "layerCake": 3,
+          "socialTitle": "",
+          "socialDek": "",
+          "editorialPreviewTitle": "",
+          "editorialPreviewDek": "",
+          "curationEligibleAt": 1614647144223,
+          "isProxyPost": false,
+          "proxyPostFaviconUrl": "",
+          "proxyPostProviderName": "",
+          "proxyPostType": 0,
+          "isSuspended": false,
+          "isLimitedState": false,
+          "seoTitle": "",
+          "previewContent2": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "00b6",
+                  "type": 3,
+                  "text": "Cloud Certs ^ 3 — Why Bother?",
+                  "markups": []
+                },
+                {
+                  "name": "3b6a",
+                  "type": 13,
+                  "text": "Are Cloud Certs needed ? Expert advice from a Data Engineer",
+                  "markups": []
+                },
+                {
+                  "name": "28de",
+                  "type": 4,
+                  "text": "Photo by Felipe Gregate on Unsplash",
+                  "markups": [
+                    {
+                      "type": 3,
+                      "start": 9,
+                      "end": 23,
+                      "href": "https://unsplash.com/@felipegregate?utm_source=medium&utm_medium=referral",
+                      "title": "",
+                      "rel": "photo-creator noopener noopener",
+                      "anchorType": 0
+                    },
+                    {
+                      "type": 3,
+                      "start": 27,
+                      "end": 35,
+                      "href": "https://unsplash.com?utm_source=medium&utm_medium=referral",
+                      "title": "",
+                      "rel": "photo-source noopener noopener",
+                      "anchorType": 0
+                    }
+                  ],
+                  "layout": 1,
+                  "metadata": {
+                    "id": "0*VpqD8K8oYUAlfq4g",
+                    "originalWidth": 6016,
+                    "originalHeight": 4000,
+                    "isFeatured": true,
+                    "unsplashPhotoId": "3EH9dmDQU3U"
+                  }
+                },
+                {
+                  "name": "7b0e",
+                  "type": 1,
+                  "text": "Like many senior engineers / managers, I don’t feel I need certifications to prove myself nor pad my resume. I almost feel like it is below me at times to have to take an exam (don’t you?). But taking the exams and passing is a nice test to prove I’m…",
+                  "markups": [
+                    {
+                      "type": 1,
+                      "start": 384,
+                      "end": 418
+                    }
+                  ]
+                }
+              ],
+              "sections": [
+                {
+                  "name": "43c5",
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Are Cloud Certs needed?   Expert advice from a Data Engineer"
+          },
+          "cardType": 0,
+          "isDistributionAlertDismissed": false,
+          "isShortform": false,
+          "shortformType": 0,
+          "responsesLocked": false,
+          "isLockedResponse": false,
+          "isPublishToEmail": false,
+          "responseDistribution": 0,
+          "type": "Post"
+        },
+        "amount": 48,
+        "weeklyAmounts": [],
+        "totalAmountPaidToDate": 48,
+        "totalAmountInCents": 48
+      },
+      {
+        "periodStartedAt": 1614556800000,
+        "periodEndedAt": 1617235200000,
+        "createdAt": 1614556800000,
+        "userId": "1eddac375cb9",
+        "post": {
+          "id": "f0f6b77be07e",
+          "versionId": "7713d663d20",
+          "creatorId": "1eddac375cb9",
+          "homeCollectionId": "7f60cf5620c9",
+          "title": "Full Stack Machine Learning on Azure",
+          "detectedLanguage": "en",
+          "latestVersion": "7713d663d20",
+          "latestPublishedVersion": "7713d663d20",
+          "hasUnpublishedEdits": false,
+          "latestRev": 2408,
+          "createdAt": 1572222094595,
+          "updatedAt": 1614566452495,
+          "acceptedAt": 0,
+          "firstPublishedAt": 1572319207842,
+          "latestPublishedAt": 1572404476979,
+          "experimentalCss": "",
+          "displayAuthor": "",
+          "virtuals": {
+            "previewImage": {
+              "imageId": "1*O35ZUZzpKY9qgcryQqanxQ.png",
+              "filter": "",
+              "backgroundSize": "",
+              "originalWidth": 1757,
+              "originalHeight": 825,
+              "strategy": "resample",
+              "height": 0,
+              "width": 0
+            },
+            "wordCount": 4551,
+            "imageCount": 40,
+            "readingTime": 19.923584905660377,
+            "subtitle": "Guide to building a Full Stack Machine Learning site on Azure using MERN (Mongo, Express, React (Node.js))",
+            "noIndex": false,
+            "tags": [],
+            "links": {
+              "entries": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Coefficient_of_determination",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "http://testwebapp23.azurewebsites.net",
+                  "alts": [],
+                  "httpStatus": 0
+                },
+                {
+                  "url": "https://amarder.github.io/diamonds/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://scikit-learn.org/stable/modules/linear_model.html",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://christophm.github.io/interpretable-ml-book/shapley.html",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "http://diamonds.foostack.ai/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "http://diamonds.foostack.ai",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.benfrederickson.com/dont-pickle-your-data/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.diamonds.net/Prices/RapaportPriceGuide.aspx",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://dev.azure.com",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://thenextweb.com/security/2019/09/10/us-court-says-scraping-a-site-without-permission-isnt-illegal/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/mui-org/material-ui/tree/master/docs/src/pages/getting-started/templates/dashboard",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/dougfoo/diamonds/blob/master/diamond-app/src/Pricer.js",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/mbrn/material-table",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://formidable.com/open-source/victory/docs/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/dougfoo/diamonds/blob/master/diamond-app/src/Chooser.js",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/dougfoo/flaskml",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/dougfoo/diamonds/blob/master/server.js",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/dougfoo/diamonds",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.kaggle.com/shivam2503/diamonds",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.algosome.com/articles/dummy-variable-trap-regression.html",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "http://namecheap.com",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://datasciencereview.com/case-study-does-the-size-of-diamonds-affect-its-price%20--%20https://vincentarelbundock.github.io/Rdatasets/csv/Ecdat/Diamond.csv",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://medium.com/@doug.foo/full-stack-mern-machine-learning-on-azure-part-5-building-backend-express-mongodb-f87f5ddf707d",
+                  "alts": [
+                    {
+                      "type": 3,
+                      "url": "medium://p/f87f5ddf707d"
+                    },
+                    {
+                      "type": 2,
+                      "url": "medium://p/f87f5ddf707d"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/projectkudu/kudu/issues/2946",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://nbviewer.jupyter.org/github/dougfoo/machineLearning/blob/master/diamonds/Diamond-Analysis-4.ipynb",
+                  "alts": [],
+                  "httpStatus": 200
+                }
+              ],
+              "version": "0.3",
+              "generatedAt": 1572404479667
+            },
+            "isLockedPreviewOnly": false,
+            "metaDescription": "",
+            "sectionCount": 9,
+            "topics": []
+          },
+          "coverless": true,
+          "slug": "full-stack-machine-learning-on-azure",
+          "translationSourcePostId": "",
+          "translationSourceCreatorId": "",
+          "isApprovedTranslation": false,
+          "inResponseToPostId": "",
+          "inResponseToRemovedAt": 0,
+          "isTitleSynthesized": false,
+          "allowResponses": true,
+          "importedUrl": "",
+          "importedPublishedAt": 0,
+          "visibility": 2,
+          "uniqueSlug": "full-stack-machine-learning-on-azure-f0f6b77be07e",
+          "previewContent": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "previewImage",
+                  "type": 4,
+                  "text": "",
+                  "layout": 10,
+                  "metadata": {
+                    "id": "1*O35ZUZzpKY9qgcryQqanxQ.png",
+                    "originalWidth": 1757,
+                    "originalHeight": 825,
+                    "isFeatured": true
+                  }
+                },
+                {
+                  "name": "3009",
+                  "type": 3,
+                  "text": "Full Stack Machine Learning on Azure",
+                  "markups": [],
+                  "alignment": 1
+                },
+                {
+                  "name": "fdca",
+                  "type": 1,
+                  "text": "Guide to building a Full Stack Machine Learning site on Azure using MERN (Mongo, Express, React…",
+                  "markups": [
+                    {
+                      "type": 1,
+                      "start": 0,
+                      "end": 95
+                    }
+                  ],
+                  "alignment": 1
+                }
+              ],
+              "sections": [
+                {
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Guide to building a Full Stack Machine Learning site on Azure using MERN (Mongo, Express, React (Node.js))"
+          },
+          "license": 1,
+          "inResponseToMediaResourceId": "",
+          "canonicalUrl": "",
+          "approvedHomeCollectionId": "",
+          "isNewsletter": false,
+          "newsletterId": "",
+          "webCanonicalUrl": "",
+          "mediumUrl": "",
+          "migrationId": "",
+          "notifyFollowers": true,
+          "notifyTwitter": false,
+          "notifyFacebook": false,
+          "responseHiddenOnParentPostAt": 0,
+          "isSeries": false,
+          "isSubscriptionLocked": true,
+          "seriesLastAppendedAt": 0,
+          "audioVersionDurationSec": 0,
+          "sequenceId": "",
+          "isEligibleForRevenue": true,
+          "isBlockedFromHightower": false,
+          "deletedAt": 0,
+          "lockedPostSource": 1,
+          "hightowerMinimumGuaranteeStartsAt": 0,
+          "hightowerMinimumGuaranteeEndsAt": 0,
+          "featureLockRequestAcceptedAt": 0,
+          "mongerRequestType": 1,
+          "layerCake": 3,
+          "socialTitle": "",
+          "socialDek": "",
+          "editorialPreviewTitle": "",
+          "editorialPreviewDek": "",
+          "curationEligibleAt": 1572319206484,
+          "isProxyPost": false,
+          "proxyPostFaviconUrl": "",
+          "proxyPostProviderName": "",
+          "proxyPostType": 0,
+          "isSuspended": false,
+          "isLimitedState": false,
+          "seoTitle": "",
+          "previewContent2": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "3009",
+                  "type": 3,
+                  "text": "Full Stack Machine Learning on Azure",
+                  "markups": []
+                },
+                {
+                  "name": "fdca",
+                  "type": 1,
+                  "text": "Guide to building a Full Stack Machine Learning site on Azure using MERN (Mongo, Express, React (Node.js))",
+                  "markups": [
+                    {
+                      "type": 1,
+                      "start": 0,
+                      "end": 106
+                    }
+                  ]
+                },
+                {
+                  "name": "63f1",
+                  "type": 4,
+                  "text": "Tech stack and flow for http://diamonds.foostack.ai",
+                  "markups": [
+                    {
+                      "type": 3,
+                      "start": 24,
+                      "end": 51,
+                      "href": "http://diamonds.foostack.ai",
+                      "title": "",
+                      "rel": "",
+                      "anchorType": 0
+                    }
+                  ],
+                  "layout": 1,
+                  "metadata": {
+                    "id": "1*O35ZUZzpKY9qgcryQqanxQ.png",
+                    "originalWidth": 1757,
+                    "originalHeight": 825,
+                    "isFeatured": true
+                  }
+                },
+                {
+                  "name": "d051",
+                  "type": 1,
+                  "text": "Having gotten rusty on the latest tech, I took it upon myself to concurrently learn a whole bunch of things at once and build http://diamonds.foostack.ai which is now live. (Basic machine learning app…",
+                  "markups": [
+                    {
+                      "type": 3,
+                      "start": 126,
+                      "end": 153,
+                      "href": "http://diamonds.foostack.ai/",
+                      "title": "",
+                      "rel": "noopener",
+                      "anchorType": 0
+                    },
+                    {
+                      "type": 2,
+                      "start": 126,
+                      "end": 153
+                    },
+                    {
+                      "type": 2,
+                      "start": 174,
+                      "end": 218
+                    }
+                  ]
+                }
+              ],
+              "sections": [
+                {
+                  "name": "66a2",
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Guide to building a Full Stack Machine Learning site on Azure using MERN (Mongo, Express, React (Node.js))"
+          },
+          "cardType": 0,
+          "isDistributionAlertDismissed": false,
+          "isShortform": false,
+          "shortformType": 0,
+          "responsesLocked": false,
+          "isLockedResponse": false,
+          "isPublishToEmail": false,
+          "responseDistribution": 0,
+          "type": "Post"
+        },
+        "amount": 10,
+        "weeklyAmounts": [],
+        "totalAmountPaidToDate": 10,
+        "totalAmountInCents": 10
+      },
+      {
+        "periodStartedAt": 1614556800000,
+        "periodEndedAt": 1617235200000,
+        "createdAt": 1614556800000,
+        "userId": "1eddac375cb9",
+        "post": {
+          "id": "437959e86359",
+          "versionId": "45573354dcab",
+          "creatorId": "1eddac375cb9",
+          "homeCollectionId": "7219b4dc6c4c",
+          "title": "Azure AutoML Test Run",
+          "detectedLanguage": "en",
+          "latestVersion": "45573354dcab",
+          "latestPublishedVersion": "45573354dcab",
+          "hasUnpublishedEdits": false,
+          "latestRev": 974,
+          "createdAt": 1572561095386,
+          "updatedAt": 1614566452498,
+          "acceptedAt": 0,
+          "firstPublishedAt": 1572929327566,
+          "latestPublishedAt": 1572929327566,
+          "experimentalCss": "",
+          "displayAuthor": "",
+          "virtuals": {
+            "previewImage": {
+              "imageId": "1*moJxoJiTLY0W-4hoPbvTgg.png",
+              "filter": "",
+              "backgroundSize": "",
+              "originalWidth": 1038,
+              "originalHeight": 604,
+              "strategy": "resample",
+              "height": 0,
+              "width": 0
+            },
+            "wordCount": 984,
+            "imageCount": 16,
+            "readingTime": 5.263207547169811,
+            "subtitle": "Walkthrough of Azure’s AutoML: Run through of the new Visual Builders and with traditional Py Notebook and API approach.",
+            "noIndex": false,
+            "tags": [],
+            "links": {
+              "entries": [
+                {
+                  "url": "https://scikit-learn.org/stable/modules/model_evaluation.html",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "http://twitter.com/app",
+                  "alts": [
+                    {
+                      "type": 2,
+                      "url": "twitter://user?screen_name=app"
+                    },
+                    {
+                      "type": 3,
+                      "url": "twitter://user?screen_name=app"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/Azure/azure-functions-python-worker/issues/493",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://medium.com/microsoftazure/deploying-azure-machine-learning-containers-41bcb02a4e1b",
+                  "alts": [
+                    {
+                      "type": 2,
+                      "url": "medium://p/41bcb02a4e1b"
+                    },
+                    {
+                      "type": 3,
+                      "url": "medium://p/41bcb02a4e1b"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://towardsdatascience.com/full-stack-machine-learning-on-azure-f0f6b77be07e",
+                  "alts": [
+                    {
+                      "type": 3,
+                      "url": "medium://p/f0f6b77be07e"
+                    },
+                    {
+                      "type": 2,
+                      "url": "medium://p/f0f6b77be07e"
+                    }
+                  ],
+                  "httpStatus": 200
+                }
+              ],
+              "version": "0.3",
+              "generatedAt": 1572929328958
+            },
+            "isLockedPreviewOnly": false,
+            "metaDescription": "Run through of the new Visual Builders and with traditional Py Notebook and API approach.",
+            "sectionCount": 2,
+            "topics": []
+          },
+          "coverless": true,
+          "slug": "azure-automl-test-run",
+          "translationSourcePostId": "",
+          "translationSourceCreatorId": "",
+          "isApprovedTranslation": false,
+          "inResponseToPostId": "",
+          "inResponseToRemovedAt": 0,
+          "isTitleSynthesized": false,
+          "allowResponses": true,
+          "importedUrl": "",
+          "importedPublishedAt": 0,
+          "visibility": 2,
+          "uniqueSlug": "azure-automl-test-run-437959e86359",
+          "previewContent": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "previewImage",
+                  "type": 4,
+                  "text": "",
+                  "layout": 10,
+                  "metadata": {
+                    "id": "1*moJxoJiTLY0W-4hoPbvTgg.png",
+                    "originalWidth": 1038,
+                    "originalHeight": 604,
+                    "isFeatured": true
+                  }
+                },
+                {
+                  "name": "previewTitle",
+                  "type": 3,
+                  "text": "Azure AutoML Test Run",
+                  "alignment": 1
+                },
+                {
+                  "name": "previewSubtitle",
+                  "type": 13,
+                  "text": "Walkthrough of Azure’s AutoML: Run through of the new Visual Builders and with…",
+                  "alignment": 1
+                }
+              ],
+              "sections": [
+                {
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Walkthrough of Azure’s AutoML: Run through of the new Visual Builders and with traditional Py Notebook and API approach."
+          },
+          "license": 1,
+          "inResponseToMediaResourceId": "",
+          "canonicalUrl": "",
+          "approvedHomeCollectionId": "",
+          "isNewsletter": false,
+          "newsletterId": "",
+          "webCanonicalUrl": "",
+          "mediumUrl": "",
+          "migrationId": "",
+          "notifyFollowers": true,
+          "notifyTwitter": false,
+          "notifyFacebook": false,
+          "responseHiddenOnParentPostAt": 0,
+          "isSeries": false,
+          "isSubscriptionLocked": true,
+          "seriesLastAppendedAt": 0,
+          "audioVersionDurationSec": 0,
+          "sequenceId": "",
+          "isEligibleForRevenue": true,
+          "isBlockedFromHightower": false,
+          "deletedAt": 0,
+          "lockedPostSource": 1,
+          "hightowerMinimumGuaranteeStartsAt": 0,
+          "hightowerMinimumGuaranteeEndsAt": 0,
+          "featureLockRequestAcceptedAt": 0,
+          "mongerRequestType": 1,
+          "layerCake": 3,
+          "socialTitle": "",
+          "socialDek": "",
+          "editorialPreviewTitle": "",
+          "editorialPreviewDek": "",
+          "curationEligibleAt": 1572741760407,
+          "isProxyPost": false,
+          "proxyPostFaviconUrl": "",
+          "proxyPostProviderName": "",
+          "proxyPostType": 0,
+          "isSuspended": false,
+          "isLimitedState": false,
+          "seoTitle": "",
+          "previewContent2": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "cff5",
+                  "type": 3,
+                  "text": "Azure’s AutoML: A Quick Look",
+                  "markups": []
+                },
+                {
+                  "name": "08ed",
+                  "type": 13,
+                  "text": "Walkthrough of Azure’s Automated Machine Learning: New Visual Builders with traditional Py Notebook and API approach.",
+                  "markups": [
+                    {
+                      "type": 1,
+                      "start": 0,
+                      "end": 51
+                    }
+                  ]
+                },
+                {
+                  "name": "4138",
+                  "type": 4,
+                  "text": "Hail the AutoML and no code movement…",
+                  "markups": [],
+                  "layout": 1,
+                  "metadata": {
+                    "id": "1*moJxoJiTLY0W-4hoPbvTgg.png",
+                    "originalWidth": 1038,
+                    "originalHeight": 604,
+                    "isFeatured": true
+                  }
+                },
+                {
+                  "name": "8b75",
+                  "type": 1,
+                  "text": "AutoML is a relatively new thing (2–3yrs) — all the major vendors have an offering — for some like Data Robot it is their main thing. Azure has been taunting me to try this out (with its banner ads) .. so I answered the call. AutoML features:",
+                  "markups": [
+                    {
+                      "type": 1,
+                      "start": 0,
+                      "end": 7
+                    },
+                    {
+                      "type": 1,
+                      "start": 134,
+                      "end": 140
+                    }
+                  ]
+                },
+                {
+                  "name": "b533",
+                  "type": 9,
+                  "text": "With one click…",
+                  "markups": []
+                }
+              ],
+              "sections": [
+                {
+                  "name": "cc00",
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Walkthrough of Azure’s AutoML: Run through of the new Visual Builders and with traditional Py Notebook and API approach."
+          },
+          "cardType": 0,
+          "isDistributionAlertDismissed": false,
+          "isShortform": false,
+          "shortformType": 0,
+          "responsesLocked": false,
+          "isLockedResponse": false,
+          "isPublishToEmail": false,
+          "responseDistribution": 0,
+          "type": "Post"
+        },
+        "amount": 6,
+        "weeklyAmounts": [],
+        "totalAmountPaidToDate": 6,
+        "totalAmountInCents": 6
+      },
+      {
+        "periodStartedAt": 1614556800000,
+        "periodEndedAt": 1617235200000,
+        "createdAt": 1614556800000,
+        "userId": "1eddac375cb9",
+        "post": {
+          "id": "940bbaa9ff3b",
+          "versionId": "d1928264a456",
+          "creatorId": "1eddac375cb9",
+          "homeCollectionId": "61061eb0c96b",
+          "title": "AWS Analytics Website for $1/Month",
+          "detectedLanguage": "en",
+          "latestVersion": "d1928264a456",
+          "latestPublishedVersion": "d1928264a456",
+          "hasUnpublishedEdits": false,
+          "latestRev": 1342,
+          "createdAt": 1599223530775,
+          "updatedAt": 1614566452500,
+          "acceptedAt": 0,
+          "firstPublishedAt": 1601480420052,
+          "latestPublishedAt": 1601480420052,
+          "experimentalCss": "",
+          "displayAuthor": "",
+          "virtuals": {
+            "previewImage": {
+              "imageId": "0*jLx9CLO5detZ03Zx",
+              "filter": "",
+              "backgroundSize": "",
+              "originalWidth": 5184,
+              "originalHeight": 3456,
+              "strategy": "resample",
+              "height": 0,
+              "width": 0
+            },
+            "wordCount": 958,
+            "imageCount": 9,
+            "readingTime": 4.815094339622641,
+            "subtitle": "Build a dynamic site in 2-days with AWS S3, Lambda and React",
+            "noIndex": false,
+            "tags": [],
+            "links": {
+              "entries": [
+                {
+                  "url": "https://unsplash.com?utm_source=medium&utm_medium=referral",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://unsplash.com/@halacious?utm_source=medium&utm_medium=referral",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://material-ui.com/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://stopcovid19.metro.tokyo.lg.jp",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/alexanmtz/material-sense",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.youtube.com/watch?v=sBws8MSXN7A&t=1527s",
+                  "alts": [],
+                  "httpStatus": 429
+                },
+                {
+                  "url": "https://github.com/dougfoo/tokyocovid",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "http://tokyocovid.foostack.org/#/",
+                  "alts": [],
+                  "httpStatus": 200
+                }
+              ],
+              "version": "0.3",
+              "generatedAt": 1601480420719
+            },
+            "isLockedPreviewOnly": false,
+            "metaDescription": "",
+            "sectionCount": 9,
+            "topics": []
+          },
+          "coverless": true,
+          "slug": "aws-analytics-website-for-1-month",
+          "translationSourcePostId": "",
+          "translationSourceCreatorId": "",
+          "isApprovedTranslation": false,
+          "inResponseToPostId": "",
+          "inResponseToRemovedAt": 0,
+          "isTitleSynthesized": false,
+          "allowResponses": true,
+          "importedUrl": "",
+          "importedPublishedAt": 0,
+          "visibility": 2,
+          "uniqueSlug": "aws-analytics-website-for-1-month-940bbaa9ff3b",
+          "previewContent": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "previewImage",
+                  "type": 4,
+                  "text": "",
+                  "layout": 10,
+                  "metadata": {
+                    "id": "0*jLx9CLO5detZ03Zx",
+                    "originalWidth": 5184,
+                    "originalHeight": 3456,
+                    "isFeatured": true,
+                    "unsplashPhotoId": "tZc3vjPCk-Q"
+                  }
+                },
+                {
+                  "name": "e2ad",
+                  "type": 3,
+                  "text": "AWS Analytics Website for $1/Month",
+                  "markups": [],
+                  "alignment": 1
+                },
+                {
+                  "name": "4929",
+                  "type": 13,
+                  "text": "Build a dynamic site in 2-days with AWS S3, Lambda, and React",
+                  "markups": [],
+                  "alignment": 1
+                }
+              ],
+              "sections": [
+                {
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Build a dynamic site in 2-days with AWS S3, Lambda and React"
+          },
+          "license": 0,
+          "inResponseToMediaResourceId": "",
+          "canonicalUrl": "",
+          "approvedHomeCollectionId": "",
+          "isNewsletter": false,
+          "newsletterId": "",
+          "webCanonicalUrl": "",
+          "mediumUrl": "",
+          "migrationId": "",
+          "notifyFollowers": true,
+          "notifyTwitter": false,
+          "notifyFacebook": false,
+          "responseHiddenOnParentPostAt": 0,
+          "isSeries": false,
+          "isSubscriptionLocked": true,
+          "seriesLastAppendedAt": 0,
+          "audioVersionDurationSec": 0,
+          "sequenceId": "",
+          "isEligibleForRevenue": true,
+          "isBlockedFromHightower": false,
+          "deletedAt": 0,
+          "lockedPostSource": 1,
+          "hightowerMinimumGuaranteeStartsAt": 0,
+          "hightowerMinimumGuaranteeEndsAt": 0,
+          "featureLockRequestAcceptedAt": 0,
+          "mongerRequestType": 1,
+          "layerCake": 3,
+          "socialTitle": "",
+          "socialDek": "",
+          "editorialPreviewTitle": "",
+          "editorialPreviewDek": "",
+          "curationEligibleAt": 1599983902749,
+          "isProxyPost": false,
+          "proxyPostFaviconUrl": "",
+          "proxyPostProviderName": "",
+          "proxyPostType": 0,
+          "isSuspended": false,
+          "isLimitedState": false,
+          "seoTitle": "",
+          "previewContent2": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "e2ad",
+                  "type": 3,
+                  "text": "AWS Analytics Website for $1/Month",
+                  "markups": []
+                },
+                {
+                  "name": "4929",
+                  "type": 13,
+                  "text": "Build a dynamic site in 2-days with AWS S3, Lambda, and React",
+                  "markups": []
+                },
+                {
+                  "name": "3100",
+                  "type": 4,
+                  "text": "Photo by Halacious on Unsplash",
+                  "markups": [
+                    {
+                      "type": 3,
+                      "start": 9,
+                      "end": 18,
+                      "href": "https://unsplash.com/@halacious?utm_source=medium&utm_medium=referral",
+                      "title": "",
+                      "rel": "photo-creator",
+                      "anchorType": 0
+                    },
+                    {
+                      "type": 3,
+                      "start": 22,
+                      "end": 30,
+                      "href": "https://unsplash.com?utm_source=medium&utm_medium=referral",
+                      "title": "",
+                      "rel": "photo-source",
+                      "anchorType": 0
+                    }
+                  ],
+                  "layout": 3,
+                  "metadata": {
+                    "id": "0*jLx9CLO5detZ03Zx",
+                    "originalWidth": 5184,
+                    "originalHeight": 3456,
+                    "isFeatured": true,
+                    "unsplashPhotoId": "tZc3vjPCk-Q"
+                  }
+                },
+                {
+                  "name": "b5e4",
+                  "type": 1,
+                  "text": "I wanted to build a simple site that auto-refreshes daily and displays a basic dashboard with graphs. The aim of this website was to automate my daily COVID analysis in a way that I could share with friends. Refreshing my AWS skills was a bonus since I hadn’t used it…",
+                  "markups": []
+                }
+              ],
+              "sections": [
+                {
+                  "name": "b3e0",
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Build a dynamic site in 2-days with AWS S3, Lambda and React"
+          },
+          "cardType": 0,
+          "isDistributionAlertDismissed": false,
+          "isShortform": false,
+          "shortformType": 0,
+          "responsesLocked": false,
+          "isLockedResponse": false,
+          "isPublishToEmail": false,
+          "responseDistribution": 0,
+          "type": "Post"
+        },
+        "amount": 5,
+        "weeklyAmounts": [],
+        "totalAmountPaidToDate": 5,
+        "totalAmountInCents": 5
+      },
+      {
+        "periodStartedAt": 1614556800000,
+        "periodEndedAt": 1617235200000,
+        "createdAt": 1614556800000,
+        "userId": "1eddac375cb9",
+        "post": {
+          "id": "2f009ebe4935",
+          "versionId": "69bd8572f892",
+          "creatorId": "1eddac375cb9",
+          "homeCollectionId": "7f60cf5620c9",
+          "title": "Data Scientists: Adapt or Die!",
+          "detectedLanguage": "en",
+          "latestVersion": "69bd8572f892",
+          "latestPublishedVersion": "69bd8572f892",
+          "hasUnpublishedEdits": false,
+          "latestRev": 1612,
+          "createdAt": 1597915194060,
+          "updatedAt": 1614566452495,
+          "acceptedAt": 0,
+          "firstPublishedAt": 1598282119297,
+          "latestPublishedAt": 1608020236558,
+          "experimentalCss": "",
+          "displayAuthor": "",
+          "virtuals": {
+            "previewImage": {
+              "imageId": "0*wZpeZQo98F9vFKdF",
+              "filter": "",
+              "backgroundSize": "",
+              "originalWidth": 4592,
+              "originalHeight": 3448,
+              "strategy": "resample",
+              "height": 0,
+              "width": 0
+            },
+            "wordCount": 968,
+            "imageCount": 5,
+            "readingTime": 4.486163522012578,
+            "subtitle": "Will AutoML help us or kill us ?",
+            "noIndex": false,
+            "tags": [],
+            "links": {
+              "entries": [
+                {
+                  "url": "https://unsplash.com?utm_source=medium&utm_medium=referral",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://unsplash.com/@tinaflour?utm_source=medium&utm_medium=referral",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.fast.ai/2018/07/12/auto-ml-1/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/rethinking-ai-talent-strategy-as-automated-machine-learning-comes-of-age?cid=other-eml-alt-mip-mck&hlkid=16e1ccda088c4061938cbb51f973d214&hctky=11853309&hdpid=9fee72b5-745e-4899-a6b0-fad315c62056",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.wired.com/story/googles-ai-experts-try-automate-themselves/",
+                  "alts": [
+                    {
+                      "type": 1,
+                      "url": "https://www.wired.com/story/googles-ai-experts-try-automate-themselves/amp"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.infoworld.com/article/3228245/the-80-20-data-science-dilemma.html",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.youtube.com/watch?v=aU4RQD--Lec",
+                  "alts": [],
+                  "httpStatus": 429
+                },
+                {
+                  "url": "https://unsplash.com/@sknutson?utm_source=medium&utm_medium=referral",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.kdnuggets.com/2020/03/poll-automl-replace-data-scientists-results.html",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.kdnuggets.com/2019/03/why-automl-wont-replace-data-scientists.html",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://quanthub.com/data-scientist-shortage-2020/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://towardsdatascience.com/automl-faceoff-2-machines-vs-15-humans-bfc9d03e590f",
+                  "alts": [
+                    {
+                      "type": 2,
+                      "url": "medium://p/bfc9d03e590f"
+                    },
+                    {
+                      "type": 3,
+                      "url": "medium://p/bfc9d03e590f"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://towardsdatascience.com/the-rise-of-the-data-strategist-2402abd62866?_branch_match_id=764068755630717009",
+                  "alts": [
+                    {
+                      "type": 3,
+                      "url": "medium://p/2402abd62866"
+                    },
+                    {
+                      "type": 2,
+                      "url": "medium://p/2402abd62866"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://towardsdatascience.com/@boyanangelov?source=post_page-----2402abd62866----------------------",
+                  "alts": [
+                    {
+                      "type": 2,
+                      "url": "medium://@boyanangelov"
+                    },
+                    {
+                      "type": 3,
+                      "url": "medium://@boyanangelov"
+                    }
+                  ],
+                  "httpStatus": 200
+                }
+              ],
+              "version": "0.3",
+              "generatedAt": 1608020238316
+            },
+            "isLockedPreviewOnly": false,
+            "metaDescription": "",
+            "sectionCount": 5,
+            "topics": []
+          },
+          "coverless": true,
+          "slug": "data-scientists-adapt-or-die",
+          "translationSourcePostId": "",
+          "translationSourceCreatorId": "",
+          "isApprovedTranslation": false,
+          "inResponseToPostId": "",
+          "inResponseToRemovedAt": 0,
+          "isTitleSynthesized": false,
+          "allowResponses": true,
+          "importedUrl": "",
+          "importedPublishedAt": 0,
+          "visibility": 2,
+          "uniqueSlug": "data-scientists-adapt-or-die-2f009ebe4935",
+          "previewContent": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "previewImage",
+                  "type": 4,
+                  "text": "",
+                  "layout": 10,
+                  "metadata": {
+                    "id": "0*wZpeZQo98F9vFKdF",
+                    "originalWidth": 4592,
+                    "originalHeight": 3448,
+                    "isFeatured": true,
+                    "unsplashPhotoId": "lQ2BzDNmnHE"
+                  }
+                },
+                {
+                  "name": "4b4d",
+                  "type": 3,
+                  "text": "Data Scientists: Adapt or Die!",
+                  "markups": [],
+                  "alignment": 1
+                },
+                {
+                  "name": "85d2",
+                  "type": 13,
+                  "text": "Will AutoML help us or kill us ?",
+                  "markups": [],
+                  "alignment": 1
+                }
+              ],
+              "sections": [
+                {
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Will AutoML help us or kill us ?"
+          },
+          "license": 0,
+          "inResponseToMediaResourceId": "",
+          "canonicalUrl": "",
+          "approvedHomeCollectionId": "",
+          "isNewsletter": false,
+          "newsletterId": "",
+          "webCanonicalUrl": "",
+          "mediumUrl": "",
+          "migrationId": "",
+          "notifyFollowers": true,
+          "notifyTwitter": false,
+          "notifyFacebook": false,
+          "responseHiddenOnParentPostAt": 0,
+          "isSeries": false,
+          "isSubscriptionLocked": true,
+          "seriesLastAppendedAt": 0,
+          "audioVersionDurationSec": 0,
+          "sequenceId": "",
+          "isEligibleForRevenue": true,
+          "isBlockedFromHightower": false,
+          "deletedAt": 0,
+          "lockedPostSource": 1,
+          "hightowerMinimumGuaranteeStartsAt": 0,
+          "hightowerMinimumGuaranteeEndsAt": 0,
+          "featureLockRequestAcceptedAt": 0,
+          "mongerRequestType": 1,
+          "layerCake": 3,
+          "socialTitle": "",
+          "socialDek": "",
+          "editorialPreviewTitle": "",
+          "editorialPreviewDek": "",
+          "curationEligibleAt": 1598251158983,
+          "isProxyPost": false,
+          "proxyPostFaviconUrl": "",
+          "proxyPostProviderName": "",
+          "proxyPostType": 0,
+          "isSuspended": false,
+          "isLimitedState": false,
+          "seoTitle": "",
+          "previewContent2": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "4b4d",
+                  "type": 3,
+                  "text": "Data Scientists: Adapt or Die!",
+                  "markups": []
+                },
+                {
+                  "name": "85d2",
+                  "type": 13,
+                  "text": "Will AutoML help us or kill us ?",
+                  "markups": []
+                },
+                {
+                  "name": "ae4e",
+                  "type": 4,
+                  "text": "Photo of an Ex-Data Scientist by Steve Knutson on Unsplash",
+                  "markups": [
+                    {
+                      "type": 3,
+                      "start": 33,
+                      "end": 46,
+                      "href": "https://unsplash.com/@sknutson?utm_source=medium&utm_medium=referral",
+                      "title": "",
+                      "rel": "photo-creator",
+                      "anchorType": 0
+                    },
+                    {
+                      "type": 3,
+                      "start": 50,
+                      "end": 58,
+                      "href": "https://unsplash.com?utm_source=medium&utm_medium=referral",
+                      "title": "",
+                      "rel": "photo-source",
+                      "anchorType": 0
+                    }
+                  ],
+                  "layout": 3,
+                  "metadata": {
+                    "id": "0*wZpeZQo98F9vFKdF",
+                    "originalWidth": 4592,
+                    "originalHeight": 3448,
+                    "isFeatured": true,
+                    "unsplashPhotoId": "lQ2BzDNmnHE"
+                  }
+                },
+                {
+                  "name": "41f2",
+                  "type": 1,
+                  "text": "Harvard Business Review marked the boom of Data Scientists in their famous 2012 article “Data Scientist: Sexiest Job”, followed by untenable demand in the past decade. [3]",
+                  "markups": [
+                    {
+                      "type": 3,
+                      "start": 88,
+                      "end": 117,
+                      "href": "https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century",
+                      "title": "",
+                      "rel": "",
+                      "name": "",
+                      "anchorType": 0,
+                      "creatorIds": [],
+                      "userId": ""
+                    },
+                    {
+                      "type": 1,
+                      "start": 0,
+                      "end": 24,
+                      "href": "",
+                      "title": "",
+                      "rel": "",
+                      "name": "",
+                      "anchorType": 0,
+                      "creatorIds": [],
+                      "userId": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "18d9",
+                  "type": 6,
+                  "text": "“..demand has raced ahead of supply. Indeed, the shortage of data scientists is becoming a serious constraint in some sectors.”",
+                  "markups": []
+                },
+                {
+                  "name": "6661",
+                  "type": 1,
+                  "text": "McKinsey & Co…",
+                  "markups": [
+                    {
+                      "type": 1,
+                      "start": 0,
+                      "end": 14
+                    }
+                  ]
+                }
+              ],
+              "sections": [
+                {
+                  "name": "be9e",
+                  "startIndex": 0,
+                  "textLayout": 1,
+                  "imageLayout": 1,
+                  "backgroundColor": 1,
+                  "type": 0,
+                  "videoLayout": 1
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Will AutoML help us or kill us ?"
+          },
+          "cardType": 0,
+          "isDistributionAlertDismissed": false,
+          "isShortform": false,
+          "shortformType": 0,
+          "responsesLocked": false,
+          "isLockedResponse": false,
+          "isPublishToEmail": false,
+          "responseDistribution": 0,
+          "type": "Post"
+        },
+        "amount": 2,
+        "weeklyAmounts": [],
+        "totalAmountPaidToDate": 2,
+        "totalAmountInCents": 2
+      },
+      {
+        "periodStartedAt": 1614556800000,
+        "periodEndedAt": 1617235200000,
+        "createdAt": 1614556800000,
+        "userId": "1eddac375cb9",
+        "post": {
+          "id": "75d59170864",
+          "versionId": "ab423b3567a7",
+          "creatorId": "1eddac375cb9",
+          "homeCollectionId": "7f60cf5620c9",
+          "title": "Cross Platform NLP GUI on Flutter",
+          "detectedLanguage": "en",
+          "latestVersion": "ab423b3567a7",
+          "latestPublishedVersion": "ab423b3567a7",
+          "hasUnpublishedEdits": false,
+          "latestRev": 928,
+          "createdAt": 1579867435251,
+          "updatedAt": 1614566452499,
+          "acceptedAt": 0,
+          "firstPublishedAt": 1580095610320,
+          "latestPublishedAt": 1580392143956,
+          "experimentalCss": "",
+          "displayAuthor": "",
+          "virtuals": {
+            "previewImage": {
+              "imageId": "1*AjCMJbeBnv2vVDjiNJB3pw.png",
+              "filter": "",
+              "backgroundSize": "",
+              "originalWidth": 3285,
+              "originalHeight": 1497,
+              "strategy": "resample",
+              "height": 0,
+              "width": 0
+            },
+            "wordCount": 869,
+            "imageCount": 4,
+            "readingTime": 3.9792452830188676,
+            "subtitle": "Sentiment Analysis GUI in Flutter + Python REST Backend",
+            "noIndex": false,
+            "tags": [],
+            "links": {
+              "entries": [
+                {
+                  "url": "http://foostack.ai/nlp",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "http://flask.palletsprojects.com/en/1.1.x/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://medium.com/flutter-community/nlp-chat-on-flutter-azure-676aa4768fbb",
+                  "alts": [
+                    {
+                      "type": 3,
+                      "url": "medium://p/676aa4768fbb"
+                    },
+                    {
+                      "type": 2,
+                      "url": "medium://p/676aa4768fbb"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "http://nlp.foostack.ai/nlp/sa/all?data=I%20love%20you",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://codeburst.io/why-i-a-sr-manager-learned-flutter-8da9a05b2326?source=---------5------------------",
+                  "alts": [
+                    {
+                      "type": 3,
+                      "url": "medium://p/8da9a05b2326"
+                    },
+                    {
+                      "type": 2,
+                      "url": "medium://p/8da9a05b2326"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://medium.com/swlh/bert-bidirectional-encoder-representations-from-transformers-c1ba3ef5e2f4",
+                  "alts": [
+                    {
+                      "type": 3,
+                      "url": "medium://p/c1ba3ef5e2f4"
+                    },
+                    {
+                      "type": 2,
+                      "url": "medium://p/c1ba3ef5e2f4"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://medium.com/microsoftazure/deploying-azure-machine-learning-containers-41bcb02a4e1b",
+                  "alts": [
+                    {
+                      "type": 3,
+                      "url": "medium://p/41bcb02a4e1b"
+                    },
+                    {
+                      "type": 2,
+                      "url": "medium://p/41bcb02a4e1b"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72",
+                  "alts": [
+                    {
+                      "type": 3,
+                      "url": "medium://p/9f4abfd13e72"
+                    },
+                    {
+                      "type": 2,
+                      "url": "medium://p/9f4abfd13e72"
+                    }
+                  ],
+                  "httpStatus": 200
+                }
+              ],
+              "version": "0.3",
+              "generatedAt": 1580392145431
+            },
+            "isLockedPreviewOnly": false,
+            "metaDescription": "",
+            "sectionCount": 2,
+            "topics": []
+          },
+          "coverless": true,
+          "slug": "cross-platform-nlp-gui-on-flutter",
+          "translationSourcePostId": "",
+          "translationSourceCreatorId": "",
+          "isApprovedTranslation": false,
+          "inResponseToPostId": "",
+          "inResponseToRemovedAt": 0,
+          "isTitleSynthesized": false,
+          "allowResponses": true,
+          "importedUrl": "",
+          "importedPublishedAt": 0,
+          "visibility": 2,
+          "uniqueSlug": "cross-platform-nlp-gui-on-flutter-75d59170864",
+          "previewContent": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "previewImage",
+                  "type": 4,
+                  "text": "",
+                  "layout": 10,
+                  "metadata": {
+                    "id": "1*AjCMJbeBnv2vVDjiNJB3pw.png",
+                    "originalWidth": 3285,
+                    "originalHeight": 1497,
+                    "isFeatured": true
+                  }
+                },
+                {
+                  "name": "3841",
+                  "type": 3,
+                  "text": "Cross Platform NLP GUI on Flutter",
+                  "markups": [],
+                  "alignment": 1
+                },
+                {
+                  "name": "358f",
+                  "type": 13,
+                  "text": "Sentiment Analysis GUI in Flutter + Python REST Backend",
+                  "markups": [],
+                  "alignment": 1
+                }
+              ],
+              "sections": [
+                {
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Sentiment Analysis GUI in Flutter + Python REST Backend"
+          },
+          "license": 0,
+          "inResponseToMediaResourceId": "",
+          "canonicalUrl": "",
+          "approvedHomeCollectionId": "",
+          "isNewsletter": false,
+          "newsletterId": "",
+          "webCanonicalUrl": "",
+          "mediumUrl": "",
+          "migrationId": "",
+          "notifyFollowers": true,
+          "notifyTwitter": false,
+          "notifyFacebook": false,
+          "responseHiddenOnParentPostAt": 0,
+          "isSeries": false,
+          "isSubscriptionLocked": true,
+          "seriesLastAppendedAt": 0,
+          "audioVersionDurationSec": 0,
+          "sequenceId": "",
+          "isEligibleForRevenue": true,
+          "isBlockedFromHightower": false,
+          "deletedAt": 0,
+          "lockedPostSource": 1,
+          "hightowerMinimumGuaranteeStartsAt": 0,
+          "hightowerMinimumGuaranteeEndsAt": 0,
+          "featureLockRequestAcceptedAt": 0,
+          "mongerRequestType": 1,
+          "layerCake": 3,
+          "socialTitle": "",
+          "socialDek": "",
+          "editorialPreviewTitle": "",
+          "editorialPreviewDek": "",
+          "curationEligibleAt": 1580064399831,
+          "isProxyPost": false,
+          "proxyPostFaviconUrl": "",
+          "proxyPostProviderName": "",
+          "proxyPostType": 0,
+          "isSuspended": false,
+          "isLimitedState": false,
+          "seoTitle": "",
+          "previewContent2": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "3841",
+                  "type": 3,
+                  "text": "Cross Platform NLP GUI on Flutter",
+                  "markups": []
+                },
+                {
+                  "name": "358f",
+                  "type": 13,
+                  "text": "Sentiment Analysis GUI in Flutter + Python REST Backend",
+                  "markups": []
+                },
+                {
+                  "name": "e261",
+                  "type": 4,
+                  "text": "Flutter for Android, Tablet, and Web (iOS as well !)",
+                  "markups": [],
+                  "layout": 1,
+                  "metadata": {
+                    "id": "1*AjCMJbeBnv2vVDjiNJB3pw.png",
+                    "originalWidth": 3285,
+                    "originalHeight": 1497,
+                    "isFeatured": true
+                  }
+                },
+                {
+                  "name": "8fdf",
+                  "type": 3,
+                  "text": "Objectives:",
+                  "markups": []
+                },
+                {
+                  "name": "39fd",
+                  "type": 1,
+                  "text": "I started a project to build a Killer Chat App that leverages a NLP Sentiment Analyzer to perform realtime chat analysis in live chats as per my last article [2]. This article is the R&D phase of the project:",
+                  "markups": [
+                    {
+                      "type": 3,
+                      "start": 145,
+                      "end": 157,
+                      "href": "https://medium.com/flutter-community/nlp-chat-on-flutter-azure-676aa4768fbb",
+                      "title": "",
+                      "rel": "",
+                      "anchorType": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "050e",
+                  "type": 9,
+                  "text": "Backend REST service for Sentiment Analysis",
+                  "markups": []
+                },
+                {
+                  "name": "7b4d",
+                  "type": 9,
+                  "text": "Front end Visualizer to see…",
+                  "markups": []
+                }
+              ],
+              "sections": [
+                {
+                  "name": "54cc",
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Sentiment Analysis GUI in Flutter + Python REST Backend"
+          },
+          "cardType": 0,
+          "isDistributionAlertDismissed": false,
+          "isShortform": false,
+          "shortformType": 0,
+          "responsesLocked": false,
+          "isLockedResponse": false,
+          "isPublishToEmail": false,
+          "responseDistribution": 0,
+          "type": "Post"
+        },
+        "amount": 0,
+        "weeklyAmounts": [],
+        "totalAmountPaidToDate": 0,
+        "totalAmountInCents": 0
+      },
+      {
+        "periodStartedAt": 1614556800000,
+        "periodEndedAt": 1617235200000,
+        "createdAt": 1614556800000,
+        "userId": "1eddac375cb9",
+        "post": {
+          "id": "79959b4e324a",
+          "versionId": "c2cfe8ad988",
+          "creatorId": "1eddac375cb9",
+          "homeCollectionId": "7f60cf5620c9",
+          "title": "Can NLP Read Mr Spock’s Sentiment?",
+          "detectedLanguage": "en",
+          "latestVersion": "c2cfe8ad988",
+          "latestPublishedVersion": "c2cfe8ad988",
+          "hasUnpublishedEdits": false,
+          "latestRev": 3188,
+          "createdAt": 1579495707074,
+          "updatedAt": 1614566452499,
+          "acceptedAt": 0,
+          "firstPublishedAt": 1582083091134,
+          "latestPublishedAt": 1587575611147,
+          "experimentalCss": "",
+          "displayAuthor": "",
+          "virtuals": {
+            "previewImage": {
+              "imageId": "1*tpjbZovoUrsK4jBBuhHkqA.png",
+              "filter": "",
+              "backgroundSize": "",
+              "originalWidth": 1003,
+              "originalHeight": 775,
+              "strategy": "resample",
+              "height": 0,
+              "width": 0
+            },
+            "wordCount": 1765,
+            "imageCount": 13,
+            "readingTime": 8.060377358490566,
+            "subtitle": "Step through the process of building & training a custom NLP sentiment analyzer.",
+            "noIndex": false,
+            "tags": [],
+            "links": {
+              "entries": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Hebbian_theory",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Doctor_Manhattan",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.nltk.org/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "http://foostack.ai/'",
+                  "alts": [],
+                  "httpStatus": 404
+                },
+                {
+                  "url": "https://radimrehurek.com/gensim/models/word2vec.html",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "http://thinknook.com/twitter-sentiment-analysis-training-corpus-dataset-2012-09-22/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://data.world/crowdflower/sentiment-analysis-in-text",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://nlp.stanford.edu/sentiment/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://commons.wikimedia.org/wiki/File:Leonard_Nimoy_Mr._Spock_Star_Trek.JPG",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "http://foostack.ai/nlp",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/dougfoo/machineLearning/tree/master/nlp",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.amazon.co.uk/Aquarius-Star-Emotions-Spock-Poster/dp/B009UG1RQG",
+                  "alts": [],
+                  "httpStatus": 503
+                },
+                {
+                  "url": "https://github.com/dougfoo/flaskml3/blob/master/app.py",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://nlp.stanford.edu/projects/glove/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.kaggle.com/yelp-dataset/yelp-dataset",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/dougfoo/flaskml3/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/dougfoo/machineLearning/blob/master/nlp/nlp.py",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://link.medium.com/onbeDUAzL3",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.win.tue.nl/~mpechen/projects/smm/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://arxiv.org/pdf/1301.3781.pdf",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://medium.com/datadriveninvestor/implementing-naive-bayes-for-sentiment-analysis-in-python-951fa8dcd928",
+                  "alts": [
+                    {
+                      "type": 3,
+                      "url": "medium://p/951fa8dcd928"
+                    },
+                    {
+                      "type": 2,
+                      "url": "medium://p/951fa8dcd928"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://datasetsearch.research.google.com/search?query=sentiment%20analysis&docid=0rbimuM78%2B%2Fk2mp2AAAAAA%3D%3D",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41",
+                  "alts": [
+                    {
+                      "type": 3,
+                      "url": "medium://p/f6f7d70acd41"
+                    },
+                    {
+                      "type": 2,
+                      "url": "medium://p/f6f7d70acd41"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://towardsdatascience.com/beyond-word-embeddings-part-2-word-vectors-nlp-modeling-from-bow-to-bert-4ebd4711d0ec",
+                  "alts": [
+                    {
+                      "type": 2,
+                      "url": "medium://p/4ebd4711d0ec"
+                    },
+                    {
+                      "type": 3,
+                      "url": "medium://p/4ebd4711d0ec"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://towardsdatascience.com/cross-platform-nlp-gui-on-flutter-75d59170864?source=---------2------------------",
+                  "alts": [
+                    {
+                      "type": 2,
+                      "url": "medium://p/75d59170864"
+                    },
+                    {
+                      "type": 3,
+                      "url": "medium://p/75d59170864"
+                    }
+                  ],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "http://xplordat.com/2018/09/27/word-embeddings-and-document-vectors-part-1-similarity/",
+                  "alts": [],
+                  "httpStatus": 200
+                }
+              ],
+              "version": "0.3",
+              "generatedAt": 1587575612631
+            },
+            "isLockedPreviewOnly": false,
+            "metaDescription": "",
+            "sectionCount": 3,
+            "topics": []
+          },
+          "coverless": true,
+          "slug": "can-nlp-read-mr-spocks-sentiment",
+          "translationSourcePostId": "",
+          "translationSourceCreatorId": "",
+          "isApprovedTranslation": false,
+          "inResponseToPostId": "",
+          "inResponseToRemovedAt": 0,
+          "isTitleSynthesized": false,
+          "allowResponses": true,
+          "importedUrl": "",
+          "importedPublishedAt": 0,
+          "visibility": 2,
+          "uniqueSlug": "can-nlp-read-mr-spocks-sentiment-79959b4e324a",
+          "previewContent": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "previewImage",
+                  "type": 4,
+                  "text": "",
+                  "layout": 10,
+                  "metadata": {
+                    "id": "1*tpjbZovoUrsK4jBBuhHkqA.png",
+                    "originalWidth": 1003,
+                    "originalHeight": 775,
+                    "isFeatured": true
+                  }
+                },
+                {
+                  "name": "9f72",
+                  "type": 3,
+                  "text": "Can NLP Read Mr Spock’s Sentiment?",
+                  "markups": [],
+                  "alignment": 1
+                },
+                {
+                  "name": "15fb",
+                  "type": 13,
+                  "text": "Step thru the process of building & training a custom NLP sentiment…",
+                  "markups": [],
+                  "alignment": 1
+                }
+              ],
+              "sections": [
+                {
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Step through the process of building & training a custom NLP sentiment analyzer."
+          },
+          "license": 0,
+          "inResponseToMediaResourceId": "",
+          "canonicalUrl": "",
+          "approvedHomeCollectionId": "",
+          "isNewsletter": false,
+          "newsletterId": "",
+          "webCanonicalUrl": "",
+          "mediumUrl": "",
+          "migrationId": "",
+          "notifyFollowers": true,
+          "notifyTwitter": false,
+          "notifyFacebook": false,
+          "responseHiddenOnParentPostAt": 0,
+          "isSeries": false,
+          "isSubscriptionLocked": true,
+          "seriesLastAppendedAt": 0,
+          "audioVersionDurationSec": 0,
+          "sequenceId": "",
+          "isEligibleForRevenue": true,
+          "isBlockedFromHightower": false,
+          "deletedAt": 0,
+          "lockedPostSource": 1,
+          "hightowerMinimumGuaranteeStartsAt": 0,
+          "hightowerMinimumGuaranteeEndsAt": 0,
+          "featureLockRequestAcceptedAt": 0,
+          "mongerRequestType": 1,
+          "layerCake": 3,
+          "socialTitle": "",
+          "socialDek": "",
+          "editorialPreviewTitle": "",
+          "editorialPreviewDek": "",
+          "curationEligibleAt": 1582041956007,
+          "isProxyPost": false,
+          "proxyPostFaviconUrl": "",
+          "proxyPostProviderName": "",
+          "proxyPostType": 0,
+          "isSuspended": false,
+          "isLimitedState": false,
+          "seoTitle": "",
+          "previewContent2": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "9f72",
+                  "type": 3,
+                  "text": "Can NLP Read Mr Spock’s Sentiment?",
+                  "markups": []
+                },
+                {
+                  "name": "15fb",
+                  "type": 13,
+                  "text": "Step thru the process of building & training a custom NLP sentiment analyzer.",
+                  "markups": []
+                },
+                {
+                  "name": "707d",
+                  "type": 4,
+                  "text": "Could we apply sentiment analysis to Vulcans? Maybe not… Wiki Commons Photo [0]",
+                  "markups": [],
+                  "layout": 1,
+                  "metadata": {
+                    "id": "1*tpjbZovoUrsK4jBBuhHkqA.png",
+                    "originalWidth": 1003,
+                    "originalHeight": 775,
+                    "isFeatured": true
+                  }
+                },
+                {
+                  "name": "224c",
+                  "type": 1,
+                  "text": "Do Vulcans express sentiment without emotion? With the power of Machine Learning, we can find out. We shall evaluate famous Spock Quotes using this (yet another) basic guide to Natural Language Processing (NLP) and Sentiment Analysis (SA) methods.",
+                  "markups": [
+                    {
+                      "type": 1,
+                      "start": 124,
+                      "end": 137
+                    }
+                  ]
+                },
+                {
+                  "name": "9d61",
+                  "type": 6,
+                  "text": "“Once you have eliminated the impossible, whatever remains, however improbable, must be…",
+                  "markups": []
+                }
+              ],
+              "sections": [
+                {
+                  "name": "25b3",
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Step through the process of building & training a custom NLP sentiment analyzer."
+          },
+          "cardType": 0,
+          "isDistributionAlertDismissed": false,
+          "isShortform": false,
+          "shortformType": 0,
+          "responsesLocked": false,
+          "isLockedResponse": false,
+          "isPublishToEmail": false,
+          "responseDistribution": 0,
+          "type": "Post"
+        },
+        "amount": 0,
+        "weeklyAmounts": [],
+        "totalAmountPaidToDate": 0,
+        "totalAmountInCents": 0
+      },
+      {
+        "periodStartedAt": 1614556800000,
+        "periodEndedAt": 1617235200000,
+        "createdAt": 1614556800000,
+        "userId": "1eddac375cb9",
+        "post": {
+          "id": "d05b13e43002",
+          "versionId": "6bb84273caf3",
+          "creatorId": "1eddac375cb9",
+          "homeCollectionId": "7f60cf5620c9",
+          "title": "Host a Data Dashboard for $1/Month",
+          "detectedLanguage": "en",
+          "latestVersion": "6bb84273caf3",
+          "latestPublishedVersion": "6bb84273caf3",
+          "hasUnpublishedEdits": false,
+          "latestRev": 142,
+          "createdAt": 1600097013061,
+          "updatedAt": 1614566452499,
+          "acceptedAt": 0,
+          "firstPublishedAt": 1600123711772,
+          "latestPublishedAt": 1600148693237,
+          "experimentalCss": "",
+          "displayAuthor": "",
+          "virtuals": {
+            "previewImage": {
+              "imageId": "0*jLx9CLO5detZ03Zx",
+              "filter": "",
+              "backgroundSize": "",
+              "originalWidth": 5184,
+              "originalHeight": 3456,
+              "strategy": "resample",
+              "height": 0,
+              "width": 0
+            },
+            "wordCount": 940,
+            "imageCount": 9,
+            "readingTime": 4.747169811320755,
+            "subtitle": "Build a dynamic data driven site in a weekend with AWS S3, Lambda, Pandas and React",
+            "noIndex": false,
+            "tags": [],
+            "links": {
+              "entries": [
+                {
+                  "url": "https://unsplash.com?utm_source=medium&utm_medium=referral",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://material-ui.com/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://unsplash.com/@halacious?utm_source=medium&utm_medium=referral",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://stopcovid19.metro.tokyo.lg.jp",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/dougfoo/tokyocovid",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://github.com/alexanmtz/material-sense",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.youtube.com/watch?v=sBws8MSXN7A&t=1527s",
+                  "alts": [],
+                  "httpStatus": 429
+                },
+                {
+                  "url": "http://tokyocovid.foostack.org/#/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "http://tokyocovid.foostack.org",
+                  "alts": [],
+                  "httpStatus": 200
+                }
+              ],
+              "version": "0.3",
+              "generatedAt": 1600148694136
+            },
+            "isLockedPreviewOnly": false,
+            "metaDescription": "",
+            "sectionCount": 9,
+            "topics": []
+          },
+          "coverless": true,
+          "slug": "host-a-data-dashboard-for-1-month",
+          "translationSourcePostId": "",
+          "translationSourceCreatorId": "",
+          "isApprovedTranslation": false,
+          "inResponseToPostId": "",
+          "inResponseToRemovedAt": 0,
+          "isTitleSynthesized": false,
+          "allowResponses": true,
+          "importedUrl": "",
+          "importedPublishedAt": 0,
+          "visibility": 2,
+          "uniqueSlug": "host-a-data-dashboard-for-1-month-d05b13e43002",
+          "previewContent": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "previewImage",
+                  "type": 4,
+                  "text": "",
+                  "layout": 10,
+                  "metadata": {
+                    "id": "0*jLx9CLO5detZ03Zx",
+                    "originalWidth": 5184,
+                    "originalHeight": 3456,
+                    "isFeatured": true,
+                    "unsplashPhotoId": "tZc3vjPCk-Q"
+                  }
+                },
+                {
+                  "name": "b656",
+                  "type": 3,
+                  "text": "Host a Data Dashboard for $1/Month",
+                  "markups": [],
+                  "alignment": 1
+                },
+                {
+                  "name": "4929",
+                  "type": 13,
+                  "text": "Build a dynamic data driven site in a weekend with AWS S3, Lambda…",
+                  "markups": [],
+                  "alignment": 1
+                }
+              ],
+              "sections": [
+                {
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Build a dynamic data driven site in a weekend with AWS S3, Lambda, Pandas and React"
+          },
+          "license": 0,
+          "inResponseToMediaResourceId": "",
+          "canonicalUrl": "",
+          "approvedHomeCollectionId": "",
+          "isNewsletter": false,
+          "newsletterId": "",
+          "webCanonicalUrl": "",
+          "mediumUrl": "",
+          "migrationId": "",
+          "notifyFollowers": true,
+          "notifyTwitter": false,
+          "notifyFacebook": false,
+          "responseHiddenOnParentPostAt": 0,
+          "isSeries": false,
+          "isSubscriptionLocked": true,
+          "seriesLastAppendedAt": 0,
+          "audioVersionDurationSec": 0,
+          "sequenceId": "",
+          "isEligibleForRevenue": true,
+          "isBlockedFromHightower": false,
+          "deletedAt": 0,
+          "lockedPostSource": 1,
+          "hightowerMinimumGuaranteeStartsAt": 0,
+          "hightowerMinimumGuaranteeEndsAt": 0,
+          "featureLockRequestAcceptedAt": 0,
+          "mongerRequestType": 1,
+          "layerCake": 3,
+          "socialTitle": "",
+          "socialDek": "",
+          "editorialPreviewTitle": "",
+          "editorialPreviewDek": "",
+          "curationEligibleAt": 1600097354801,
+          "isProxyPost": false,
+          "proxyPostFaviconUrl": "",
+          "proxyPostProviderName": "",
+          "proxyPostType": 0,
+          "isSuspended": false,
+          "isLimitedState": false,
+          "seoTitle": "",
+          "previewContent2": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "b656",
+                  "type": 3,
+                  "text": "Host a Data Dashboard for $1/Month",
+                  "markups": []
+                },
+                {
+                  "name": "4929",
+                  "type": 13,
+                  "text": "Build a dynamic data driven site in a weekend with AWS S3, Lambda, Pandas, and React",
+                  "markups": []
+                },
+                {
+                  "name": "3100",
+                  "type": 4,
+                  "text": "Photo by Halacious on Unsplash",
+                  "markups": [
+                    {
+                      "type": 3,
+                      "start": 9,
+                      "end": 18,
+                      "href": "https://unsplash.com/@halacious?utm_source=medium&utm_medium=referral",
+                      "title": "",
+                      "rel": "photo-creator noopener noopener",
+                      "anchorType": 0
+                    },
+                    {
+                      "type": 3,
+                      "start": 22,
+                      "end": 30,
+                      "href": "https://unsplash.com?utm_source=medium&utm_medium=referral",
+                      "title": "",
+                      "rel": "photo-source noopener noopener",
+                      "anchorType": 0
+                    }
+                  ],
+                  "layout": 3,
+                  "metadata": {
+                    "id": "0*jLx9CLO5detZ03Zx",
+                    "originalWidth": 5184,
+                    "originalHeight": 3456,
+                    "isFeatured": true,
+                    "unsplashPhotoId": "tZc3vjPCk-Q"
+                  }
+                },
+                {
+                  "name": "b5e4",
+                  "type": 1,
+                  "text": "I wanted to build a simple site that auto refreshes daily showing a basic dashboard with graphs. (To automate my daily COVID analysis in a way that I could share with friends) .",
+                  "markups": []
+                },
+                {
+                  "name": "1d89",
+                  "type": 1,
+                  "text": "Refreshing my AWS skills was a bonus since I hadn’t used it in a few years.",
+                  "markups": []
+                },
+                {
+                  "name": "3e7e",
+                  "type": 3,
+                  "text": "The Design",
+                  "markups": []
+                },
+                {
+                  "name": "6374",
+                  "type": 13,
+                  "text": "Plan:",
+                  "markups": []
+                },
+                {
+                  "name": "794c",
+                  "type": 9,
+                  "text": "Gather…",
+                  "markups": []
+                }
+              ],
+              "sections": [
+                {
+                  "name": "b6c0",
+                  "startIndex": 0
+                },
+                {
+                  "name": "cc9c",
+                  "startIndex": 5
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "Build a dynamic data driven site in a weekend with AWS S3, Lambda, Pandas and React"
+          },
+          "cardType": 0,
+          "isDistributionAlertDismissed": false,
+          "isShortform": false,
+          "shortformType": 0,
+          "responsesLocked": false,
+          "isLockedResponse": false,
+          "isPublishToEmail": false,
+          "responseDistribution": 0,
+          "type": "Post"
+        },
+        "amount": 0,
+        "weeklyAmounts": [],
+        "totalAmountPaidToDate": 0,
+        "totalAmountInCents": 0
+      },
+      {
+        "periodStartedAt": 1614556800000,
+        "periodEndedAt": 1617235200000,
+        "createdAt": 1614556800000,
+        "userId": "1eddac375cb9",
+        "post": {
+          "id": "eddfb3e569f7",
+          "versionId": "f274302dcac8",
+          "creatorId": "1eddac375cb9",
+          "homeCollectionId": "",
+          "title": "Cloud Certs ^ 3 — Why Bother?",
+          "detectedLanguage": "en",
+          "latestVersion": "f274302dcac8",
+          "latestPublishedVersion": "f274302dcac8",
+          "hasUnpublishedEdits": false,
+          "latestRev": 921,
+          "createdAt": 1614342710344,
+          "updatedAt": 1615011495061,
+          "acceptedAt": 0,
+          "firstPublishedAt": 1614350866136,
+          "latestPublishedAt": 1614441861699,
+          "experimentalCss": "",
+          "displayAuthor": "",
+          "virtuals": {
+            "previewImage": {
+              "imageId": "0*VpqD8K8oYUAlfq4g",
+              "filter": "",
+              "backgroundSize": "",
+              "originalWidth": 6016,
+              "originalHeight": 4000,
+              "strategy": "resample",
+              "height": 0,
+              "width": 0
+            },
+            "wordCount": 987,
+            "imageCount": 2,
+            "readingTime": 4.107861635220126,
+            "subtitle": "The endless debate on certifications and their value is resolved",
+            "noIndex": false,
+            "tags": [],
+            "links": {
+              "entries": [
+                {
+                  "url": "https://unsplash.com?utm_source=medium&utm_medium=referral",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://tutorialsdojo.com/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.datamation.com/cloud/how-cloud-computing-changed-the-world/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.udemy.com/course/google-certified-associate-cloud-engineer-2019-prep-course/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://unsplash.com/@felipegregate?utm_source=medium&utm_medium=referral",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.udemy.com/course/aws-data-analytics/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "https://www.udemy.com/course/az-102-azure-administrator-certification-transition/",
+                  "alts": [],
+                  "httpStatus": 200
+                },
+                {
+                  "url": "http://tutorialdojo.com",
+                  "alts": [],
+                  "httpStatus": 0
+                }
+              ],
+              "version": "0.3",
+              "generatedAt": 1614441871967
+            },
+            "isLockedPreviewOnly": false,
+            "metaDescription": "",
+            "sectionCount": 3,
+            "topics": []
+          },
+          "coverless": true,
+          "slug": "cloud-certs-3-why-bother",
+          "translationSourcePostId": "",
+          "translationSourceCreatorId": "",
+          "isApprovedTranslation": false,
+          "inResponseToPostId": "",
+          "inResponseToRemovedAt": 0,
+          "isTitleSynthesized": false,
+          "allowResponses": true,
+          "importedUrl": "",
+          "importedPublishedAt": 0,
+          "visibility": 1,
+          "uniqueSlug": "cloud-certs-3-why-bother-eddfb3e569f7",
+          "previewContent": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "previewImage",
+                  "type": 4,
+                  "text": "",
+                  "layout": 10,
+                  "metadata": {
+                    "id": "0*VpqD8K8oYUAlfq4g",
+                    "originalWidth": 6016,
+                    "originalHeight": 4000,
+                    "isFeatured": true,
+                    "unsplashPhotoId": "3EH9dmDQU3U"
+                  }
+                },
+                {
+                  "name": "previewTitle",
+                  "type": 3,
+                  "text": "Cloud Certs ^ 3 — Why Bother?",
+                  "alignment": 1
+                },
+                {
+                  "name": "previewSubtitle",
+                  "type": 13,
+                  "text": "The endless debate on certifications and their value is resolved",
+                  "alignment": 1
+                }
+              ],
+              "sections": [
+                {
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "The endless debate on certifications and their value is resolved"
+          },
+          "license": 7,
+          "inResponseToMediaResourceId": "",
+          "canonicalUrl": "",
+          "approvedHomeCollectionId": "",
+          "isNewsletter": false,
+          "newsletterId": "",
+          "webCanonicalUrl": "",
+          "mediumUrl": "",
+          "migrationId": "",
+          "notifyFollowers": true,
+          "notifyTwitter": false,
+          "notifyFacebook": false,
+          "responseHiddenOnParentPostAt": 0,
+          "isSeries": false,
+          "isSubscriptionLocked": false,
+          "seriesLastAppendedAt": 0,
+          "audioVersionDurationSec": 0,
+          "sequenceId": "",
+          "isEligibleForRevenue": false,
+          "isBlockedFromHightower": false,
+          "deletedAt": 0,
+          "lockedPostSource": 0,
+          "hightowerMinimumGuaranteeStartsAt": 0,
+          "hightowerMinimumGuaranteeEndsAt": 0,
+          "featureLockRequestAcceptedAt": 0,
+          "mongerRequestType": 1,
+          "layerCake": 3,
+          "socialTitle": "",
+          "socialDek": "",
+          "editorialPreviewTitle": "",
+          "editorialPreviewDek": "",
+          "curationEligibleAt": 1614649139630,
+          "isProxyPost": false,
+          "proxyPostFaviconUrl": "",
+          "proxyPostProviderName": "",
+          "proxyPostType": 0,
+          "isSuspended": false,
+          "isLimitedState": false,
+          "seoTitle": "",
+          "previewContent2": {
+            "bodyModel": {
+              "paragraphs": [
+                {
+                  "name": "d2da",
+                  "type": 3,
+                  "text": "Cloud Certs ^ 3 — Why Bother?",
+                  "markups": []
+                },
+                {
+                  "name": "3b6a",
+                  "type": 13,
+                  "text": "The endless debate on certifications and their value once again",
+                  "markups": []
+                },
+                {
+                  "name": "28de",
+                  "type": 4,
+                  "text": "Photo by Felipe Gregate on Unsplash",
+                  "markups": [
+                    {
+                      "type": 3,
+                      "start": 9,
+                      "end": 23,
+                      "href": "https://unsplash.com/@felipegregate?utm_source=medium&utm_medium=referral",
+                      "title": "",
+                      "rel": "photo-creator",
+                      "anchorType": 0
+                    },
+                    {
+                      "type": 3,
+                      "start": 27,
+                      "end": 35,
+                      "href": "https://unsplash.com?utm_source=medium&utm_medium=referral",
+                      "title": "",
+                      "rel": "photo-source",
+                      "anchorType": 0
+                    }
+                  ],
+                  "layout": 1,
+                  "metadata": {
+                    "id": "0*VpqD8K8oYUAlfq4g",
+                    "originalWidth": 6016,
+                    "originalHeight": 4000,
+                    "isFeatured": true,
+                    "unsplashPhotoId": "3EH9dmDQU3U"
+                  }
+                },
+                {
+                  "name": "7b0e",
+                  "type": 1,
+                  "text": "Like many senior engineers / managers, I don’t feel I need certifications to prove myself nor pad my resume. I almost feel like it is below me at times to have to take an exam (don’t you?). But taking the exams and passing is a nice test to prove I’m…",
+                  "markups": [
+                    {
+                      "type": 1,
+                      "start": 384,
+                      "end": 418
+                    }
+                  ]
+                }
+              ],
+              "sections": [
+                {
+                  "name": "2d55",
+                  "startIndex": 0
+                }
+              ]
+            },
+            "isFullContent": false,
+            "subtitle": "The endless debate on certifications and their value is resolved"
+          },
+          "cardType": 0,
+          "isDistributionAlertDismissed": false,
+          "isShortform": false,
+          "shortformType": 0,
+          "responsesLocked": false,
+          "isLockedResponse": false,
+          "isPublishToEmail": false,
+          "responseDistribution": 0,
+          "type": "Post"
+        },
+        "amount": 0,
+        "weeklyAmounts": [],
+        "totalAmountPaidToDate": 0,
+        "totalAmountInCents": 0
+      }
+    ],
+    "userId": "1eddac375cb9",
+    "monthlyPaymentPeriod": {
+      "weeks": [
+        {
+          "position": 0,
+          "dates": [
+            1614556800000,
+            1614643200000,
+            1614729600000,
+            1614816000000,
+            1614902400000,
+            1614988800000,
+            1615075200000
+          ],
+          "paymentEstimateAt": 1615420800000,
+          "isCurrent": false,
+          "startedAt": 1614556800000,
+          "endedAt": 1615075200000
+        },
+        {
+          "position": 1,
+          "dates": [
+            1615161600000,
+            1615248000000,
+            1615334400000,
+            1615420800000,
+            1615507200000,
+            1615593600000,
+            1615680000000
+          ],
+          "paymentEstimateAt": 1616025600000,
+          "isCurrent": true,
+          "startedAt": 1615161600000,
+          "endedAt": 1615680000000
+        },
+        {
+          "position": 2,
+          "dates": [
+            1615766400000,
+            1615852800000,
+            1615939200000,
+            1616025600000,
+            1616112000000,
+            1616198400000,
+            1616284800000
+          ],
+          "paymentEstimateAt": 1616630400000,
+          "isCurrent": false,
+          "startedAt": 1615766400000,
+          "endedAt": 1616284800000
+        },
+        {
+          "position": 3,
+          "dates": [
+            1616371200000,
+            1616457600000,
+            1616544000000,
+            1616630400000,
+            1616716800000,
+            1616803200000,
+            1616889600000
+          ],
+          "paymentEstimateAt": 1617235200000,
+          "isCurrent": false,
+          "startedAt": 1616371200000,
+          "endedAt": 1616889600000
+        },
+        {
+          "position": 4,
+          "dates": [
+            1616976000000,
+            1617062400000,
+            1617148800000
+          ],
+          "paymentEstimateAt": 1617840000000,
+          "isCurrent": false,
+          "startedAt": 1616976000000,
+          "endedAt": 1617494400000
+        }
+      ],
+      "totalDays": 31,
+      "currentWeekPosition": 1,
+      "periodStartedAt": 1614556800000,
+      "periodEndedAt": 1617235200000,
+      "isEstimateMonth": true,
+      "inactiveDates": [
+        1617235200000,
+        1617321600000,
+        1617408000000,
+        1617494400000,
+        1617580800000,
+        1617667200000,
+        1617753600000,
+        1617840000000
+      ],
+      "lastCommittedWeekPosition": 0,
+      "pendingEstimateWeekPosition": 1,
+      "paymentDateIsUpcoming": true,
+      "currentDayMillis": 1615248000000,
+      "expectedPaymentDate": 1617840000000
+    },
+    "userTaxDocuments": {
+      "userId": "1eddac375cb9",
+      "taxDocumentStatus": 4
+    },
+    "userTaxWithholding": {
+      "userId": "1eddac375cb9",
+      "withholdingPercentage": 0,
+      "treatyCountry": "US",
+      "treatyCountryName": "United States",
+      "paymentCountry": "US",
+      "paymentCountryName": "United States"
+    },
+    "includesNonEarningPosts": true,
+    "references": {}
+  },
+  "v": 3,
+  "b": "20210309-0048-root"
+}
